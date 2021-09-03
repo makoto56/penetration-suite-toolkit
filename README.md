@@ -441,58 +441,32 @@
     
     - scan box:
     
-      * avscan 杀毒软件检测工具：
-    
-	- checkav
-    
-      * joomscan joomla扫描工具:
-    
-	- joomscan-perl: 基于perl
-    
-	- joomscan-python: 基于python
-      
-      * leakscan 敏感文件扫描工具：	
-    
-	- dirmap：https://github.com/H4ckForJob/dirmap
-    
-	- dirsearch：https://github.com/maurosoria/dirsearch
-    
-	- packerfuzzer：https://github.com/rtcatc/Packer-Fuzzer
-    
-	- scantools：https://gitee.com/windyjxx/ScanTools
-    
-	- yujian
-    
-	- githack
-    
-	- ...
-      
-      * portscan 端口扫描工具：
-      
-        - nmapsingle：nmap单文件版
-	
-	- portscan2：端口扫描工具
-        
-	- s：端口扫描工具
-    
-      * subdomain 子域名探测工具 ：
-	
-	- sublist3r：https://github.com/aboul3la/Sublist3r
-	
-	- subfinder：https://github.com/projectdiscovery/subfinder
-	
-	- oneforall：https://github.com/shmilylty/OneForAll
-	
-	- securitytrails
-	
-	- webtitle
-	
-	- domaininfo
-	
-	- webbatchrequest
-	
-	- ...
-    
+    * avscan 杀毒软件检测工具：
+    - checkav
+    * joomscan joomla扫描工具:
+    - joomscan-perl: 基于perl
+    - joomscan-python: 基于python
+    * leakscan 敏感文件扫描工具：	
+    - dirmap：https://github.com/H4ckForJob/dirmap
+    - dirsearch：https://github.com/maurosoria/dirsearch
+    - packerfuzzer：https://github.com/rtcatc/Packer-Fuzzer
+    - scantools：https://gitee.com/windyjxx/ScanTools
+    - yujian
+    - githack
+    - ...
+    * portscan 端口扫描工具：
+    - nmapsingle：nmap单文件版
+    - portscan2：端口扫描工具
+    - s：端口扫描工具
+    * subdomain 子域名探测工具 ：
+    - sublist3r：https://github.com/aboul3la/Sublist3r
+    - subfinder：https://github.com/projectdiscovery/subfinder
+    - oneforall：https://github.com/shmilylty/OneForAll
+    - securitytrails
+    - webtitle
+    - domaininfo
+    - webbatchrequest
+    - ...
     - 更多扫描工具见 C:\Penetration\ScanTools\ScanBox（其中scanbox项目 https://github.com/we5ter/scanners-box）
 
 **`[+] ShellTools 权限工具:`**
