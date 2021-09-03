@@ -43,7 +43,7 @@
     
 **`软件及工具介绍：`**
 
-    - [x] **`系统环境类：`**
+**`1. 系统环境类：`**
     
     - Directx
      
@@ -57,7 +57,7 @@
      
     - 集成常用字库
 
-- [x] **`WindowsApp类：`**
+**`2. WindowsApp类：`**
 
     - 极速pdf
 
@@ -67,7 +67,7 @@
 
     - Windows Terminal（已替换默认cmd）
 
-- [x] **`其他工具类 （C:\Softwares）：`**
+**`3. 其他工具类 （C:\Softwares）：`**
 
     - aact: 激活工具（一键激活windows & office）
     
@@ -173,7 +173,7 @@
     
     - snipaste: 截图工具
 
-- [x] **`渗透测试类（C:\Penetration）：`**
+**`4. 渗透测试类（C:\Penetration）：`**
     
     - 常用的python及csharp脚本类工具均配有start.bat。
     
