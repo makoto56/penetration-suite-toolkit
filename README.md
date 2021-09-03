@@ -588,53 +588,28 @@
     - ctf隐写术知识点总结
 
 **`[+] TrafficTools 流量工具:`**
-    
     - besttrace：ip追踪工具
-    
     - burpsuite: 
-      
       * burpsuite 2021.8.2汉化版（https://github.com/funkyoummp/burpsuitecn）
-      
       * burpsuite 2020.11汉化版（https://github.com/funkyoummp/burpsuitecn）
-      
       * 集成插件：
-	
 	- vulners scanner
-	
 	- changeu
-	
 	- chunked coding converter
-	
 	- domain hunter
-	
 	- fake ip
-	
 	- hackbar
-	
 	- sqlmap4burp
-	
-	- turbo intruder
-    
+	- turbo intruder  
     - fiddler: 流量抓包工具（汉化版）
-    
-    - ftpservers: ftp开启工具
-    
+    - ftpservers: ftp开启工具  
     - hack firefox: firefox 49.0 （集成插件版）
-    
-    - ie tester: ie各版本模拟工具
-    
-    - ipchanger: ip代理工具
-    
+    - ie tester: ie各版本模拟工具  
+    - ipchanger: ip代理工具  
     - nmap：端口扫描工具
-    
-    - phpstudy: 集成环境
-    
+    - phpstudy: 集成环境 
       * 集成thinkphp3.1.3 — 5.0.24全部版本
-    
-    - proxifier: 流量代理工具
-    
-    - shadowsocks: socks代理工具
-    
+    - proxifier: 流量代理工具  
+    - shadowsocks: socks代理工具 
     - torbrowser: 洋葱浏览器
-    
     - wireshark: 流量抓包分析工具
