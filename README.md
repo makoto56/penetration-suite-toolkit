@@ -43,7 +43,7 @@
     
 **`软件及工具介绍：`**
 
-- [x] **`系统环境类：`**
+    - [x] **`系统环境类：`**
     
     - Directx
      
@@ -173,7 +173,7 @@
     
     - snipaste: 截图工具
 
-- [x] **`渗透测试类（C:\Penetration）`**
+- [x] **`渗透测试类（C:\Penetration）：`**
     
     - 常用的python及csharp脚本类工具均配有start.bat。
     
