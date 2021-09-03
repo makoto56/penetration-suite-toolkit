@@ -381,8 +381,12 @@
     - shadowsocks: socks代理工具 
     - torbrowser: 洋葱浏览器
     - wireshark: 流量抓包分析工具
+    
+**`下载链接：`**
+https://pan.xunlei.com/s/VMidP-JSxBLLp54Vh2pGQ88eA1 
+提取码：s6qb
 
-`截图预览：`
+**`截图预览：`**
 
 ![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/1.png)
 ![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/2.png)
