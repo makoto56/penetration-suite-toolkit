@@ -294,192 +294,377 @@
       - 添加右键菜单：使用Sublime编辑
 
 **`[+] ExpolitTools 漏洞工具:`**
- - cms hunter:https://github.com/SecWiki/CMS-Hunter
- - exphub：https://github.com/zhzyker/exphub
- - middleware-vulnerability-detection：https://github.com/mai-lang-chai/middleware-vulnerability-detection
- - system-vulnerability：https://github.com/mai-lang-chai/system-vulnerability
- - vulmap：web漏扫验证工具（https://github.com/zhzyker/vulmap）
- - vulnerability：https://github.com/edgesecurityteam/vulnerability
-   - 更多漏洞exp见 c:\penetration\expolittools
+    
+    - cms hunter:https://github.com/SecWiki/CMS-Hunter
+    
+    - exphub：https://github.com/zhzyker/exphub
+    
+    - middleware-vulnerability-detection：https://github.com/mai-lang-chai/middleware-vulnerability-detection
+    
+    - system-vulnerability：https://github.com/mai-lang-chai/system-vulnerability
+    
+    - vulmap：web漏扫验证工具（https://github.com/zhzyker/vulmap）
+    
+    - vulnerability：https://github.com/edgesecurityteam/vulnerability
+    
+    - 更多漏洞exp见 c:\penetration\expolittools
+
 **`[+] IntranetTools 内网工具:`**
- - add user: 添加用户工具
- - earth worm: 内网穿透工具
- - frp: 内网穿透工具（https://github.com/fatedier/frp）
- - stowaway：内网穿透工具（https://github.com/ph4ntonn/Stowaway）
- - revsh：内网穿透工具（https://github.com/emptymonkey/revsh）
- - mimikatz：密码抓取工具（文件夹下集成下列密码抓取工具）
-   - gosecretsdump
-   - hklm
-   - kekeo
-   - lazagne
-   - mimipenguin
-   - ntdsdumpex
-   - procdump
-   - pwdump8
-   - quarkspw dump
- - impacket：内网协议工具（https://github.com/SecureAuthCorp/impacket）
- - k8 ladon：内网扫描工具（8.6版本）
- - fscan：内网扫描工具（https://github.com/shadow1ng/fscan）
- - kscan：内网扫描工具（https://github.com/lcvvvv/kscan）
- - darkeye：内网扫描工具（https://github.com/b1gcat/DarkEye）
- - dismap：内网扫描工具（https://github.com/zhzyker/dismap）
- - hydra: 口令爆破工具
- - nc: 监听工具
- - openrdp：开启远程桌面工具
- - regeorg: web流量转发工具（https://github.com/sensepost/reGeorg）
-   - neo-regeorg：regeorg改良版（https://github.com/L-codes/Neo-reGeorg）
- - sharpdecryptpwd：密码破解工具
- - wmihacker：wmi渗透工具
- - powershdll：powershell工具
- - invoke-obfuscation：powershell工具（https://github.com/danielbohannon/Invoke-Obfuscation）
- - reverseshell：反弹shell工具
-   - 更多内网工具见 C:\Penetration\IntranetTools
+    
+    - add user: 添加用户工具
+    
+    - earth worm: 内网穿透工具
+    
+    - frp: 内网穿透工具（https://github.com/fatedier/frp）
+    
+    - stowaway：内网穿透工具（https://github.com/ph4ntonn/Stowaway）
+    
+    - revsh：内网穿透工具（https://github.com/emptymonkey/revsh）
+    
+    - mimikatz：密码抓取工具（文件夹下集成下列密码抓取工具）
+    
+      - gosecretsdump
+      
+      - hklm
+      
+      - kekeo
+      
+      - lazagne
+      
+      - mimipenguin
+      
+      - ntdsdumpex
+      
+      - procdump
+      
+      - pwdump8
+      
+      - quarkspw dump
+    
+    - impacket：内网协议工具（https://github.com/SecureAuthCorp/impacket）
+    
+    - k8 ladon：内网扫描工具（8.6版本）
+    
+    - fscan：内网扫描工具（https://github.com/shadow1ng/fscan）
+    
+    - kscan：内网扫描工具（https://github.com/lcvvvv/kscan）
+    
+    - darkeye：内网扫描工具（https://github.com/b1gcat/DarkEye）
+    
+    - dismap：内网扫描工具（https://github.com/zhzyker/dismap）
+    
+    - hydra: 口令爆破工具
+    
+    - nc: 监听工具
+    
+    - openrdp：开启远程桌面工具
+    
+    - regeorg: web流量转发工具（https://github.com/sensepost/reGeorg）
+      
+      - neo-regeorg：regeorg改良版（https://github.com/L-codes/Neo-reGeorg）
+    
+    - sharpdecryptpwd：密码破解工具
+    
+    - wmihacker：wmi渗透工具
+    
+    - powershdll：powershell工具
+    
+    - invoke-obfuscation：powershell工具（https://github.com/danielbohannon/Invoke-Obfuscation）
+    
+    - reverseshell：反弹shell工具
+    
+    - 更多内网工具见 C:\Penetration\IntranetTools
+
 **`[+] OfficeTools 办公工具：`**
- - office 六件套: （word + excel + powerpoint + access + onenote + outlook）
- - xmind: 思维导图工具
- - telegram: 电报客户端
- - 0-sec documents：零组文档库
+    
+    - office 六件套: （word + excel + powerpoint + access + onenote + outlook）
+    
+    - xmind: 思维导图工具
+    
+    - telegram: 电报客户端
+    
+    - 0-sec documents：零组文档库
+
 **`[+] ProgramTools 编程工具：`**
- - elanguage：易语言5.9.2（注册版）
- - java：
-   - jre1.8.0：安装版，无需配置环境变量，系统默认调用java8
-   - openjdk15.0.2：绿色版，如有特殊软件需要java8以上环境运行可直接调用/bin/java.exe即可
- - microsoft visual studio 2013
- - python2：python2命令启动（python2 test.py）
- - python3：python3命令启动（python3 test.py）
-   - 已集成本镜像所有python3工具的pip依赖库
-   - 使用pip命令调用python3 pip
- - tdm gcc
+   
+    - elanguage：易语言5.9.2（注册版）
+    
+    - java：
+      
+      - jre1.8.0：安装版，无需配置环境变量，系统默认调用java8
+      
+      - openjdk15.0.2：绿色版，如有特殊软件需要java8以上环境运行可直接调用/bin/java.exe即可
+    
+    - microsoft visual studio 2013
+    
+    - python2：python2命令启动（python2 test.py）
+    
+    - python3：python3命令启动（python3 test.py）
+      
+      - 已集成本镜像所有python3工具的pip依赖库
+      
+      - 使用pip命令调用python3 pip
+    
+    - tdm gcc
+
 **`[+] ReverseTools 逆向工具：`**
- - battoexe：bat转exe工具
- - dnspy：csharp逆向工具
- - exescope：exe编辑工具
- - greenhelper：exe绿化工具
- - ollydebug：exe调试工具
- - peidtool：查壳工具
- - signtool：签名伪造工具
- - upxshell：upx加壳工具
- - vbstoexe：vbs转exe工具
- - x64dbg：exe调试工具
+    
+    - battoexe：bat转exe工具
+    
+    - dnspy：csharp逆向工具
+    
+    - exescope：exe编辑工具
+    
+    - greenhelper：exe绿化工具
+    
+    - ollydebug：exe调试工具
+    
+    - peidtool：查壳工具
+    
+    - signtool：签名伪造工具
+    
+    - upxshell：upx加壳工具
+    
+    - vbstoexe：vbs转exe工具
+    
+    - x64dbg：exe调试工具
+
 **`[+] ScanTools 扫描工具:`**
- - acunetix: web vulnerability scanner 14.3.2（注册版）
- - goby：内网扫描器（已集成插件）
- - router scan: c段扫描工具
- - snet cracker: 弱口令扫描工具
- - scan box:
-   - avscan 杀毒软件检测工具：
-     - checkav
-   - joomla扫描工具 joomscan:
-     - joomscan-perl: 基于perl
-	 - joomscan-python: 基于python
-   - leakscan 敏感文件扫描工具：	
-	 - dirmap：https://github.com/H4ckForJob/dirmap
-	 - dirsearch：https://github.com/maurosoria/dirsearch
-	 - packerfuzzer：https://github.com/rtcatc/Packer-Fuzzer
-	 - scantools：https://gitee.com/windyjxx/ScanTools
-	 - yujian
-	 - githack
-	 - ...
-   - portscan 端口扫描工具：
-     - nmapsingle：nmap单文件版
-	 - portscan2：端口扫描工具
-	 - s：端口扫描工具
-   - subdomain 子域名探测工具 ：
-	 - sublist3r：https://github.com/aboul3la/Sublist3r
-	 - subfinder：https://github.com/projectdiscovery/subfinder
-	 - oneforall：https://github.com/shmilylty/OneForAll
-	 - securitytrails
-	 - webtitle
-	 - domaininfo
-	 - webbatchrequest
-	 - ...
-   - 更多扫描工具见 C:\Penetration\ScanTools\ScanBox（其中scanbox项目 https://github.com/we5ter/scanners-box）
+    
+    - acunetix: web vulnerability scanner 14.3.2（注册版）
+    
+    - goby：内网扫描器（已集成插件）
+    
+    - router scan: c段扫描工具
+    
+    - snet cracker: 弱口令扫描工具
+    
+    - scan box:
+    
+      - avscan 杀毒软件检测工具：
+        
+	- checkav
+      
+      - joomla扫描工具 joomscan:
+        
+	- joomscan-perl: 基于perl
+        
+	- joomscan-python: 基于python
+      
+      - leakscan 敏感文件扫描工具：	
+	
+	- dirmap：https://github.com/H4ckForJob/dirmap
+	
+	- dirsearch：https://github.com/maurosoria/dirsearch
+	
+	- packerfuzzer：https://github.com/rtcatc/Packer-Fuzzer
+	
+	- scantools：https://gitee.com/windyjxx/ScanTools
+	
+	- yujian
+	
+	- githack
+	
+	- ...
+    - portscan 端口扫描工具：
+      
+      - nmapsingle：nmap单文件版
+	
+	- portscan2：端口扫描工具
+        
+	- s：端口扫描工具
+    
+    - subdomain 子域名探测工具 ：
+	
+	- sublist3r：https://github.com/aboul3la/Sublist3r
+	
+	- subfinder：https://github.com/projectdiscovery/subfinder
+	
+	- oneforall：https://github.com/shmilylty/OneForAll
+	
+	- securitytrails
+	
+	- webtitle
+	
+	- domaininfo
+	
+	- webbatchrequest
+	
+	- ...
+    
+    - 更多扫描工具见 C:\Penetration\ScanTools\ScanBox（其中scanbox项目 https://github.com/we5ter/scanners-box）
+
 **`[+] ShellTools 权限工具:`**
- - antsword: 蚁剑（https://github.com/AntSwordProject/AntSword-Loader）
- - behinder: 冰蝎（shell密码统一为cmd）（https://github.com/rebeyond/Behinder）
-   - behinder 2.0
-   - behinder 3.0 beta11
- - chopper: 菜刀
- - cknife: c刀
- - cobaltstrike: 4.3汉化版
-   - 集成插件：
-   - adcollection
-   - bypassav
-   - erebus
-   - eval
-   - eventlogmaster
-   - ladon
-   - mikasa
-   - taowu
- - godzilla：哥斯拉（密码为哥斯拉默认pass + key）（https://github.com/BeichenDream/Godzilla）
- - kali：kali linux 2021.2
-   - 用户：
-     user：kali  pass：kali
-	 user：root  pass：root
-   - 修改软件源为阿里云 + 清华大学
-   - 完整安装kali linux所有软件包
-   - 安装xrdp服务，可用rdp客户端打开kali linux图形化模式
-     - kali命令行模式下运行/home/kali/start-xrdp.sh打开xrdp服务，即可使用rdp登录kali
-       rdp配置：127.0.0.1:3390
-     - kali命令行模式下运行/home/kali/stop-xrdp.sh关闭xrdp服务
-       如果不需要使用图形化模式，建议关闭xrdp服务（非常占用资源）
- - skyscorpion：天蝎（https://github.com/shack2/skyscorpion）
- - webshellkill: webshell查杀工具
- - shell:免杀一句话木马（密码统一为cmd）
- - webshell: webshell收集项目（https://github.com/tennc/webshell）
+    
+    - antsword: 蚁剑（https://github.com/AntSwordProject/AntSword-Loader）
+    
+    - behinder: 冰蝎（shell密码统一为cmd）（https://github.com/rebeyond/Behinder）
+      
+      - behinder 2.0
+      
+      - behinder 3.0 beta11
+    
+    - chopper: 菜刀
+    
+    - cknife: c刀
+    
+    - cobaltstrike: 4.3汉化版
+      
+      - 集成插件：
+      
+      - adcollection
+      
+      - bypassav
+      
+      - erebus
+      
+      - eval
+      
+      - eventlogmaster
+      
+      - ladon
+      
+      - mikasa
+      
+      - taowu
+    
+    - godzilla：哥斯拉（密码为哥斯拉默认pass + key）（https://github.com/BeichenDream/Godzilla）
+    
+    - kali：kali linux 2021.2
+      
+      - 用户：
+        
+	user：kali  pass：kali
+	
+	user：root  pass：root
+      
+      - 修改软件源为阿里云 + 清华大学
+      
+      - 完整安装kali linux所有软件包
+      
+      - 安装xrdp服务，可用rdp客户端打开kali linux图形化模式
+        
+	- kali命令行模式下运行/home/kali/start-xrdp.sh打开xrdp服务，即可使用rdp登录kali
+          
+	  rdp配置：127.0.0.1:3390
+        
+	- kali命令行模式下运行/home/kali/stop-xrdp.sh关闭xrdp服务
+          
+	  如果不需要使用图形化模式，建议关闭xrdp服务（非常占用资源）
+    
+    - skyscorpion：天蝎（https://github.com/shack2/skyscorpion）
+    
+    - webshellkill: webshell查杀工具
+    
+    - shell:免杀一句话木马（密码统一为cmd）
+    
+    - webshell: webshell收集项目（https://github.com/tennc/webshell）
 
 **`[+] StegaTools 隐写工具：`**
- - beyond compare：对比工具
- - binwalk：分解工具
- - blind-watermark：盲水印工具
- - crc calculator：校验工具
- - f5：f5隐写工具
-   - f5-steganography
-   - lsb-steganography
-   - steganography
- - foremost：分离工具
- - giftools：gif工具
- - gnuplot：
- - jphs：jpeg工具
- - mp3steno：mp3工具
- - namo gif animator：gif工具
- - openhashtab：hash工具
- - outguess：图片工具
- - pixrecovery：
- - pngcheck：png工具
- - qr_research：二维码工具
- - stegdetect：
- - steghide：捆绑工具
- - stegsolve：分离工具
- - tweakpng：png工具
- - wbstego：
- - ctf密码学知识点总结
- - ctf逆向知识点总结
- - ctf隐写术知识点总结
+    
+    - beyond compare：对比工具
+    
+    - binwalk：分解工具
+    
+    - blind-watermark：盲水印工具
+    
+    - crc calculator：校验工具
+    
+    - f5：f5隐写工具
+      
+      - f5-steganography
+      
+      - lsb-steganography
+      
+      - steganography
+    
+    - foremost：分离工具
+    
+    - giftools：gif工具
+    
+    - gnuplot：
+    
+    - jphs：jpeg工具
+    
+    - mp3steno：mp3工具
+    
+    - namo gif animator：gif工具
+    
+    - openhashtab：hash工具
+    
+    - outguess：图片工具
+    
+    - pixrecovery：
+    
+    - pngcheck：png工具
+    
+    - qr_research：二维码工具
+    
+    - stegdetect：
+    
+    - steghide：捆绑工具
+    
+    - stegsolve：分离工具
+    
+    - tweakpng：png工具
+    
+    - wbstego：
+    
+    - ctf密码学知识点总结
+    
+    - ctf逆向知识点总结
+    
+    - ctf隐写术知识点总结
 
 **`[+] TrafficTools 流量工具:`**
- - besttrace：ip追踪工具
- - burpsuite: 
-   - burpsuite 2021.8.2汉化版（https://github.com/funkyoummp/burpsuitecn）
-   - burpsuite 2020.11汉化版（https://github.com/funkyoummp/burpsuitecn）
-     - 集成插件：
-	 - vulners scanner
-	 - changeu
-	 - chunked coding converter
-	 - domain hunter
-	 - fake ip
-	 - hackbar
-	 - sqlmap4burp
-	 - turbo intruder
- - fiddler: 流量抓包工具（汉化版）
- - ftpservers: ftp开启工具
- - hack firefox: firefox 49.0 （集成插件版）
- - ie tester: ie各版本模拟工具
- - ipchanger: ip代理工具
- - nmap：端口扫描工具
- - phpstudy: 集成环境
-   - 集成thinkphp3.1.3 — 5.0.24全部版本
- - proxifier: 流量代理工具
- - shadowsocks: socks代理工具
- - torbrowser: 洋葱浏览器
- - wireshark: 流量抓包分析工具
+    
+    - besttrace：ip追踪工具
+    
+    - burpsuite: 
+      
+      - burpsuite 2021.8.2汉化版（https://github.com/funkyoummp/burpsuitecn）
+      
+      - burpsuite 2020.11汉化版（https://github.com/funkyoummp/burpsuitecn）
+      
+      - 集成插件：
+	
+	- vulners scanner
+	
+	- changeu
+	
+	- chunked coding converter
+	
+	- domain hunter
+	
+	- fake ip
+	
+	- hackbar
+	
+	- sqlmap4burp
+	
+	- turbo intruder
+    
+    - fiddler: 流量抓包工具（汉化版）
+    
+    - ftpservers: ftp开启工具
+    
+    - hack firefox: firefox 49.0 （集成插件版）
+    
+    - ie tester: ie各版本模拟工具
+    
+    - ipchanger: ip代理工具
+    
+    - nmap：端口扫描工具
+    
+    - phpstudy: 集成环境
+    
+      - 集成thinkphp3.1.3 — 5.0.24全部版本
+    
+    - proxifier: 流量代理工具
+    
+    
+    - shadowsocks: socks代理工具
+    
+    - torbrowser: 洋葱浏览器
+    
+    - wireshark: 流量抓包分析工具
