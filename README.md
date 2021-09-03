@@ -12,11 +12,11 @@
     
     - 建议运行环境：
     
-      - vmware：16.0
+      * vmware：16.0
     
-      - 运行内存：8G
+      * 运行内存：8G
     
-      - 固态硬盘：100G
+      * 固态硬盘：100G
 
 **`写在前面的话：`**
 
@@ -51,9 +51,9 @@
      
     - Visual basic virtual machine
      
-    - Microsoft c runtime library
+    - Microsoft C runtime library
      
-    - Microsoft visual c++ 2005-2019
+    - Microsoft visual C++ 2005-2019
      
     - 集成常用字库
 
@@ -77,51 +77,51 @@
 
     - chrome: 92.0 shuax 绿色修改版
    
-      - 主要集成插件:
+      * 主要集成插件:
       
-      - adblock: 广告拦截工具
+        - adblock: 广告拦截工具
       
-      - adobe acrobat：pdf工具
+        - adobe acrobat：pdf工具
       
-      - charset：修改网页编码工具
+        - charset：修改网页编码工具
       
-      - chrome 清理大师: chrome清理工具
+        - chrome 清理大师: chrome清理工具
       
-      - editthiscookie: cookie编辑工具
+        - editthiscookie: cookie编辑工具
       
-      - fofa pro view：fofa工具
+        - fofa pro view：fofa工具
       
-      - funnel search：google搜索工具
+        - funnel search：google搜索工具
       
-      - hackbar：hackbar
+        - hackbar：hackbar
       
-      - infinity：标签页工具
+        - infinity：标签页工具
       
-      - ip address and domain inf: ip&domain探测工具
+        - ip address and domain inf: ip&domain探测工具
       
-      - ip whois: whois 探测工具
+        - ip whois: whois 探测工具
       
-      - neater bookmarks: 书签管理工具
+        - neater bookmarks: 书签管理工具
       
-      - octotree: github资源树查看工具
+        - octotree: github资源树查看工具
       
-      - onetab：标签管理工具
+        - onetab：标签管理工具
       
-      - postwoman：接口调试工具
+        - postwoman：接口调试工具
       
-      - proxy switchyomega：代理切换工具
+        - proxy switchyomega：代理切换工具
       
-      - seoquake：网页统计工具
+        - seoquake：网页统计工具
       
-      - supercopy：超级复制
+        - supercopy：超级复制
       
-      - toolbox 常用工具: 集成常用小工具
+        - toolbox 常用工具: 集成常用小工具
       
-      - wappalyzer：网页技术分析工具
+        - wappalyzer：网页技术分析工具
       
-      - whatruns：网页技术分析工具
+        - whatruns：网页技术分析工具
       
-      - yet another drag and go: 超链接拖拽新窗口打开
+        - yet another drag and go: 超链接拖拽新窗口打开
     
     - contextmenumanager：右键菜单管理工具
  
@@ -141,11 +141,11 @@
     
     - iobit:
       
-      - uninstaller: 卸载工具（注册版）
+      * uninstaller: 卸载工具（注册版）
       
-      - advanced systemcare: 优化清理工具（注册版）
+      * advanced systemcare: 优化清理工具（注册版）
       
-      - smart defrag: 磁盘碎片整理工具（注册版）
+      * smart defrag: 磁盘碎片整理工具（注册版）
     
     - mactype：字体管理工具（已修改系统默认字体为Mac苹方体）
     
@@ -155,19 +155,19 @@
     
     - pcmaster: 系统调整工具
       
-      - 已创建右键快捷菜单：
+      * 已创建右键快捷菜单：
       
-      - 在此处打开terminal终端
+        - 在此处打开terminal终端
       
-      - 在此处打开kali linux终端
+        - 在此处打开kali linux终端
          
-	 - notepad
+        - notepad
 	 
-	 - 控制面板
+	- 控制面板
 	 
-	 - 计算器
+	- 计算器
 	 
-	 - 注册表
+	- 注册表
     
     - potplayer: 视频播放工具
     
@@ -177,13 +177,13 @@
     
     - 常用的python及csharp脚本类工具均配有start.bat。
     
-      - 注明工具版本及更新时间
+      * 注明工具版本及更新时间
     
-      - 注明依赖环境
+      * 注明依赖环境
     
-      - 注明主要参数
+      * 注明主要参数
    
-      - 注明简要用法
+      * 注明简要用法
  
 **`[+] AndroidTools 安卓工具:`**
     
@@ -283,7 +283,7 @@
     
     - notepad++: 编辑工具
       
-      - 添加右键菜单：使用Notepad编辑
+      * 添加右键菜单：使用Notepad编辑
     
     - rapidenv: 环境变量编辑工具
     
@@ -291,7 +291,7 @@
     
     - sublime: 编辑工具（注册版）
       
-      - 添加右键菜单：使用Sublime编辑
+      * 添加右键菜单：使用Sublime编辑
 
 **`[+] ExpolitTools 漏洞工具:`**
     
@@ -323,23 +323,23 @@
     
     - mimikatz：密码抓取工具（文件夹下集成下列密码抓取工具）
     
-      - gosecretsdump
+      * gosecretsdump
       
-      - hklm
+      * hklm
       
-      - kekeo
+      * kekeo
       
-      - lazagne
+      * lazagne
       
-      - mimipenguin
+      * mimipenguin
       
-      - ntdsdumpex
+      * ntdsdumpex
       
-      - procdump
+      * procdump
       
-      - pwdump8
+      * pwdump8
       
-      - quarkspw dump
+      * quarkspw dump
     
     - impacket：内网协议工具（https://github.com/SecureAuthCorp/impacket）
     
@@ -361,7 +361,7 @@
     
     - regeorg: web流量转发工具（https://github.com/sensepost/reGeorg）
       
-      - neo-regeorg：regeorg改良版（https://github.com/L-codes/Neo-reGeorg）
+      * neo-regeorg：regeorg改良版（https://github.com/L-codes/Neo-reGeorg）
     
     - sharpdecryptpwd：密码破解工具
     
@@ -391,9 +391,9 @@
     
     - java：
       
-      - jre1.8.0：安装版，无需配置环境变量，系统默认调用java8
+      * jre1.8.0：安装版，无需配置环境变量，系统默认调用java8
       
-      - openjdk15.0.2：绿色版，如有特殊软件需要java8以上环境运行可直接调用/bin/java.exe即可
+      * openjdk15.0.2：绿色版，如有特殊软件需要java8以上环境运行可直接调用/bin/java.exe即可
     
     - microsoft visual studio 2013
     
@@ -401,9 +401,9 @@
     
     - python3：python3命令启动（python3 test.py）
       
-      - 已集成本镜像所有python3工具的pip依赖库
+      * 已集成本镜像所有python3工具的pip依赖库
       
-      - 使用pip命令调用python3 pip
+      * 使用pip命令调用python3 pip
     
     - tdm gcc
 
@@ -441,17 +441,17 @@
     
     - scan box:
     
-      - avscan 杀毒软件检测工具：
+      * avscan 杀毒软件检测工具：
         
 	- checkav
       
-      - joomla扫描工具 joomscan:
+      * joomscan joomla扫描工具:
         
 	- joomscan-perl: 基于perl
         
 	- joomscan-python: 基于python
       
-      - leakscan 敏感文件扫描工具：	
+      * leakscan 敏感文件扫描工具：	
 	
 	- dirmap：https://github.com/H4ckForJob/dirmap
 	
@@ -466,15 +466,15 @@
 	- githack
 	
 	- ...
-    - portscan 端口扫描工具：
+      * portscan 端口扫描工具：
       
-      - nmapsingle：nmap单文件版
+        - nmapsingle：nmap单文件版
 	
 	- portscan2：端口扫描工具
         
 	- s：端口扫描工具
     
-    - subdomain 子域名探测工具 ：
+      * subdomain 子域名探测工具 ：
 	
 	- sublist3r：https://github.com/aboul3la/Sublist3r
 	
@@ -500,9 +500,9 @@
     
     - behinder: 冰蝎（shell密码统一为cmd）（https://github.com/rebeyond/Behinder）
       
-      - behinder 2.0
+      * behinder 2.0
       
-      - behinder 3.0 beta11
+      * behinder 3.0 beta11
     
     - chopper: 菜刀
     
@@ -510,45 +510,45 @@
     
     - cobaltstrike: 4.3汉化版
       
-      - 集成插件：
+      * 集成插件：
       
-      - adcollection
+        - adcollection
       
-      - bypassav
+        - bypassav
       
-      - erebus
+        - erebus
       
-      - eval
+        - eval
       
-      - eventlogmaster
+        - eventlogmaster
+        
+        - ladon
       
-      - ladon
+        - mikasa
       
-      - mikasa
-      
-      - taowu
+        - taowu
     
     - godzilla：哥斯拉（密码为哥斯拉默认pass + key）（https://github.com/BeichenDream/Godzilla）
     
     - kali：kali linux 2021.2
       
-      - 用户：
+      * 用户：
         
 	user：kali  pass：kali
 	
 	user：root  pass：root
       
-      - 修改软件源为阿里云 + 清华大学
+      * 修改软件源为阿里云 + 清华大学
       
-      - 完整安装kali linux所有软件包
+      * 完整安装kali linux所有软件包
       
-      - 安装xrdp服务，可用rdp客户端打开kali linux图形化模式
+      * 安装xrdp服务，可用rdp客户端打开kali linux图形化模式
         
-	- kali命令行模式下运行/home/kali/start-xrdp.sh打开xrdp服务，即可使用rdp登录kali
+	* kali命令行模式下运行/home/kali/start-xrdp.sh打开xrdp服务，即可使用rdp登录kali
           
 	  rdp配置：127.0.0.1:3390
         
-	- kali命令行模式下运行/home/kali/stop-xrdp.sh关闭xrdp服务
+	* kali命令行模式下运行/home/kali/stop-xrdp.sh关闭xrdp服务
           
 	  如果不需要使用图形化模式，建议关闭xrdp服务（非常占用资源）
     
@@ -572,11 +572,11 @@
     
     - f5：f5隐写工具
       
-      - f5-steganography
+      * f5-steganography
       
-      - lsb-steganography
+      * lsb-steganography
       
-      - steganography
+      * steganography
     
     - foremost：分离工具
     
@@ -622,11 +622,11 @@
     
     - burpsuite: 
       
-      - burpsuite 2021.8.2汉化版（https://github.com/funkyoummp/burpsuitecn）
+      * burpsuite 2021.8.2汉化版（https://github.com/funkyoummp/burpsuitecn）
       
-      - burpsuite 2020.11汉化版（https://github.com/funkyoummp/burpsuitecn）
+      * burpsuite 2020.11汉化版（https://github.com/funkyoummp/burpsuitecn）
       
-      - 集成插件：
+      * 集成插件：
 	
 	- vulners scanner
 	
@@ -658,10 +658,9 @@
     
     - phpstudy: 集成环境
     
-      - 集成thinkphp3.1.3 — 5.0.24全部版本
+      * 集成thinkphp3.1.3 — 5.0.24全部版本
     
     - proxifier: 流量代理工具
-    
     
     - shadowsocks: socks代理工具
     
