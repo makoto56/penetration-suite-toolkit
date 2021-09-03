@@ -43,16 +43,82 @@
     
 **`软件及工具介绍：`**
 
-- [x] 系统环境类
+- [x] 系统环境类：
     
-     - Directx
+    - Directx
      
-     - Net Framework
+    - Net Framework
      
-     - Visual basic virtual machine
+    - Visual basic virtual machine
      
-     - Microsoft c runtime library
+    - Microsoft c runtime library
      
-     - Microsoft visual c++ 2005-2019
+    - Microsoft visual c++ 2005-2019
      
-     - 集成常用字库
+    - 集成常用字库
+
+- [x] WindowsApp类：
+
+    - 极速pdf
+
+    - kali linux
+
+    - 清理君lite
+
+    - Windows Terminal（已替换默认cmd）
+
+- [x] 其他工具类 （C:\Softwares）：
+
+    - aact: 激活工具（一键激活windows & office）
+    
+    - bandicam: 视频录制工具（注册版）
+    
+    - bandizip: 压缩工具
+
+    - chrome: 92.0 shuax 绿色修改版
+   
+      - 主要集成插件:
+      
+      - adblock: 广告拦截工具
+      
+      - adobe acrobat：pdf工具
+      
+      - charset：修改网页编码工具
+      
+      - chrome 清理大师: chrome清理工具
+      
+      - editthiscookie: cookie编辑工具
+      
+      - fofa pro view：fofa工具
+      
+      - funnel search：google搜索工具
+      
+      - hackbar：hackbar
+      
+      - infinity：标签页工具
+      
+      - ip address and domain inf: ip&domain探测工具
+      
+      - ip whois: whois 探测工具
+      
+      - neater bookmarks: 书签管理工具
+      
+      - octotree: github资源树查看工具
+      
+      - onetab：标签管理工具
+      
+      - postwoman：接口调试工具
+      
+      - proxy switchyomega：代理切换工具
+      
+      - seoquake：网页统计工具
+      
+      - supercopy：超级复制
+      
+      - toolbox 常用工具: 集成常用小工具
+      
+      - wappalyzer：网页技术分析工具
+      
+      - whatruns：网页技术分析工具
+      
+      - yet another drag and go: 超链接拖拽新窗口打开
