@@ -43,7 +43,7 @@
     
 **`软件及工具介绍：`**
 
-- [x] `系统环境类：`
+- [x] **`系统环境类：`**
     
     - Directx
      
@@ -57,7 +57,7 @@
      
     - 集成常用字库
 
-- [x] WindowsApp类：
+- [x] **`WindowsApp类：`**
 
     - 极速pdf
 
@@ -67,7 +67,7 @@
 
     - Windows Terminal（已替换默认cmd）
 
-- [x] 其他工具类 （C:\Softwares）：
+- [x] **`其他工具类 （C:\Softwares）：`**
 
     - aact: 激活工具（一键激活windows & office）
     
@@ -173,9 +173,22 @@
     
     - snipaste: 截图工具
 
- 4. 渗透测试类（C:\Penetration）
- - 常用的python及csharp脚本类工具均配有start.bat。
-   - 注明工具版本及更新时间
-   - 注明依赖环境
-   - 注明主要参数
-   - 注明简要用法
+- [x] **`渗透测试类（C:\Penetration）`**
+    
+    - 常用的python及csharp脚本类工具均配有start.bat。
+    
+      - 注明工具版本及更新时间
+    
+      - 注明依赖环境
+    
+      - 注明主要参数
+   
+      - 注明简要用法
+ 
+    [+] AndroidTools 安卓工具:
+    
+    - apktool：apk反编译工具
+    
+    - dex2jar：dex打包工具
+    
+    - ldplayer：雷电安卓模拟器
