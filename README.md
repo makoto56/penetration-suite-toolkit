@@ -406,3 +406,12 @@ https://pan.xunlei.com/s/VMidP-JSxBLLp54Vh2pGQ88eA1
 ![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/6.png)
 ![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/7.png)
 ![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/8.png)
+
+**`壁纸推荐：`**
+
+![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/black_lock.png)
+![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/black_main.png)
+![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/blue_lock.png)
+![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/blue_main.png)
+![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/kali-windows-red.png)
+![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/kali-windows-white.png)
