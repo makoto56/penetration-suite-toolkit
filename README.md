@@ -321,8 +321,6 @@
       * 用户：
         - user：kali pass：kali
         - user：root pass：root
-        - user：kali pass：kali
-	- user：root pass：root
       * 修改软件源为阿里云 + 清华大学
       * 完整安装kali linux所有软件包
       * 安装xrdp服务，可用rdp客户端打开kali linux图形化模式
@@ -372,14 +370,16 @@
       * burpsuite 2021.8.2汉化版（https://github.com/funkyoummp/burpsuitecn）
       * burpsuite 2020.11汉化版（https://github.com/funkyoummp/burpsuitecn）
       * 集成插件：
-         - vulners scanner
-	 - changeu
-	 - chunked coding converter
-	 - domain hunter
-	 - fake ip
-	 - hackbar
-	 - sqlmap4burp
-	 - turbo intruder  
+        - adcollection
+        - bypassav
+        - vulners scanner
+	- changeu
+	- chunked coding converter
+	- domain hunter
+	- fake ip
+	- hackbar
+	- sqlmap4burp
+	- turbo intruder  
     - fiddler: 流量抓包工具（汉化版）
     - ftpservers: ftp开启工具  
     - hack firefox: firefox 49.0 （集成插件版）
