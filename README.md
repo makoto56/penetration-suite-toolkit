@@ -319,7 +319,8 @@
     - godzilla：哥斯拉（密码为哥斯拉默认pass + key）（https://github.com/BeichenDream/Godzilla）
     - kali：kali linux 2021.2
       * 用户：
-        - user：kali pass：kali，user：root pass：root
+        - user：kali pass：kali
+	- user：root pass：root
       * 修改软件源为阿里云 + 清华大学
       * 完整安装kali linux所有软件包
       * 安装xrdp服务，可用rdp客户端打开kali linux图形化模式
