@@ -320,6 +320,8 @@
     - kali：kali linux 2021.2
       * 用户：
         - user：kali pass：kali
+        - user：root pass：root
+        - user：kali pass：kali
 	- user：root pass：root
       * 修改软件源为阿里云 + 清华大学
       * 完整安装kali linux所有软件包
