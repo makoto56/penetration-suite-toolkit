@@ -99,9 +99,9 @@
         - 在此处打开terminal终端
         - 在此处打开kali linux终端
         - 在此处打开notepad
-	- 控制面板
-	- 计算器
-	- 注册表
+        - 控制面板
+        - 计算器
+        - 注册表
     - potplayer: 视频播放工具
     - snipaste: 截图工具
 
