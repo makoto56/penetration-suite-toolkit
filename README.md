@@ -370,8 +370,14 @@
       * burpsuite 2021.8.2汉化版（https://github.com/funkyoummp/burpsuitecn）
       * burpsuite 2020.11汉化版（https://github.com/funkyoummp/burpsuitecn）
       * 集成插件：
-        - adcollection
-        - bypassav
+        - vulners scanner
+        - changeu
+        - chunked coding converter
+        - domain hunter
+        - fake ip
+        - hackbar
+        - sqlmap4burp
+        - turbo intruder
         - vulners scanner
 	- changeu
 	- chunked coding converter
