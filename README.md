@@ -98,7 +98,7 @@
       * 已创建右键快捷菜单：
         - 在此处打开terminal终端
         - 在此处打开kali linux终端
-        - notepad
+        - 在此处打开notepad
 	- 控制面板
 	- 计算器
 	- 注册表
