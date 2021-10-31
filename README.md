@@ -264,6 +264,8 @@
 **`[+] ScanTools 扫描工具:`**
     
     - acunetix: web vulnerability scanner 14.3.2（注册版）
+      * user: admin@awvs.com
+      * pass: Admin@awvs.com
     - goby：内网扫描器（已集成插件）
     - router scan: c段扫描工具
     - snet cracker: 弱口令扫描工具
