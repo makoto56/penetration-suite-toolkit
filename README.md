@@ -1,5 +1,11 @@
 # windows 10 Penetration Testing Suite Toolkit With Kali Linux inSide
 
+**`2021.12.01补充说明`**
+    - 1、系统修改了调用默认cmd为新版terminal，在terminal近期更新后更改了原来的wt.exe的路径，导致.bat文件无法直接打开
+         可参照https://www.cnblogs.com/hupo376787/p/14632196.html 修改wt.exe的路径即可正常使用。
+    - 2、由于Chrome安装了SwitchyOmega代理插件，导致Acunetix无法打开。
+         解决方法为使用SwitchyOmega的直连模式或者系统代理模式即可正常使用。
+
 **`Windows10 渗透测试套件`**
 
     - 基于Win10 Workstation 21H1 x64 MSDN原版镜像制作
