@@ -1,4 +1,11 @@
-# windows 10 Penetration Testing Suite Toolkit With Kali Linux inSide
+# windows 10 Penetration Testing Suite Toolkit With Kali Linux inSide Update On 2022.01.28
+
+**`2022.01.29补充说明`**
+
+    - 1、修复了新版terminal打开bat文件丢失关联的问题。
+    - 2、升级部分软件为最新版。
+    - 3、升级系统补丁截止至2022.01.28
+    - 3、优化系统，清理无用垃圾文件。
 
 **`2021.12.01补充说明`**
 
@@ -400,8 +407,8 @@
     
 **`下载链接：`**
 
-https://pan.xunlei.com/s/VMidP-JSxBLLp54Vh2pGQ88eA1 
-提取码：s6qb
+链接：https://pan.xunlei.com/s/VMuYFMemzr9i1wD2eWLwAbtPA1
+提取码：uknd
 
 **`截图预览：`**
 
