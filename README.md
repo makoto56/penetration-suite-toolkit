@@ -277,7 +277,7 @@
 
 **`[+] ScanTools 扫描工具:`**
     
-    - acunetix: web vulnerability scanner 14.3.2（注册版）
+    - acunetix: web vulnerability scanner 14.6.21（注册版）（可扫描Log4j）
       * user: admin@awvs.com
       * pass: Admin@awvs.com
     - goby：内网扫描器（已集成插件）
