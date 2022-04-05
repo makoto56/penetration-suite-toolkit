@@ -444,14 +444,14 @@ uploading ...
 
 **`截图预览：`**
 
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/1.png)
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/2.png)
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/3.png)
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/4.png)
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/5.png)
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/6.png)
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/7.png)
-![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/8.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/1.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/2.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/3.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/4.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/5.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/6.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/7.png)
+![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/8.png)
 
 **`壁纸推荐：`**
 
