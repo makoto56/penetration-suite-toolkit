@@ -198,23 +198,23 @@
 **`[+] EditTools 编辑工具:`**
     
     - 010editor: 十六进制编辑工具（注册版）
-	- alldup：重复文件搜索工具
+    - alldup：重复文件搜索工具
     - batchren: 批量重命名工具
-	- beyond compare：文件对比工具
+    - beyond compare：文件对比工具
     - ctfcrack: 米斯特安全团队工具
     - findstr: 文本检索工具
     - jd-gui: java查看编辑工具
     - jsonview: json查看编辑工具
-	- log parse：windows日志分析工具
-	- log parse lizard：windows日志分析工具（图形化）
+    - log parse：windows日志分析工具
+    - log parse lizard：windows日志分析工具（图形化）
     - notepad++: 编辑工具
       * 添加右键菜单：使用Notepad编辑
-	- pst converter：pst邮件转换工具
+    - pst converter：pst邮件转换工具
     - rapid environment: 环境变量编辑工具
     - sharp sword：csharp版本word查看工具
     - sublime: 编辑工具（注册版）
       * 添加右键菜单：使用Sublime编辑
-	- xmind：思维导图工具
+    - xmind：思维导图工具
 
 **`[+] ExpolitTools 漏洞工具:`**
     
@@ -229,23 +229,23 @@
 **`[+] IntranetTools 内网工具:`**
     
     - abptts：内网穿透工具
-	- add user: 添加用户工具
-	- ad explore：ldap工具
-	- blood hound：域渗透分析工具
-	- defeat defender：关闭defender工具
-	- dismap：内网漏洞扫描工具
-	- domain tools：域渗透工具
+    - add user: 添加用户工具
+    - ad explore：ldap工具
+    - blood hound：域渗透分析工具
+    - defeat defender：关闭defender工具
+    - dismap：内网漏洞扫描工具
+    - domain tools：域渗透工具
     - earth worm: 内网穿透工具
     - frp: 内网穿透工具（https://github.com/fatedier/frp）
-	- fscan：内网扫描工具（https://github.com/shadow1ng/fscan）
-	- homework of powershell：3gstudent powershell工具
-	- hydra: 口令爆破工具
-	- impacket：内网协议工具（https://github.com/SecureAuthCorp/impacket）
-	- invoke-obfuscation：powershell工具（https://github.com/danielbohannon/Invoke-Obfuscation）
-	- kscan：内网扫描工具（https://github.com/lcvvvv/kscan）
-	- ladon：内网扫描工具（小密圈9.1.4版本）
-	- lcx：端口转发工具
-	- ldap admin：ldap工具
+    - fscan：内网扫描工具（https://github.com/shadow1ng/fscan）
+    - homework of powershell：3gstudent powershell工具
+    - hydra: 口令爆破工具
+    - impacket：内网协议工具（https://github.com/SecureAuthCorp/impacket）
+    - invoke-obfuscation：powershell工具（https://github.com/danielbohannon/Invoke-Obfuscation）
+    - kscan：内网扫描工具（https://github.com/lcvvvv/kscan）
+    - ladon：内网扫描工具（小密圈9.1.4版本）
+    - lcx：端口转发工具
+    - ldap admin：ldap工具
     - mimikatz：密码抓取工具（文件夹下集成下列密码抓取工具）
       * gosecretsdump
       * hklm
@@ -257,26 +257,26 @@
       * pwdump
       * quarkspw dump
     - nc: 监听工具
-	- neo-regeorg：regeorg改良版（https://github.com/L-codes/Neo-reGeorg）
-	- openrdp：开启远程桌面工具
-	- pe：冰封pe iso镜像
-	- powershdll：powershell工具
-	- ps2exe：powershell转exe工具
-	- pstools：微软官方psexec工具
-	- reverseshell：反弹shell工具
-	- revsh：内网穿透工具（https://github.com/emptymonkey/revsh）
-	- scrun：k8 shellcode加载工具
-	- sharp tools：
-	  * sharp adi dnsdump：域dns枚举工具
-	  * sharp decrypt pwd：浏览器密码解密工具
-	  * sharp event log：日志分析工具
-	  * sharp hound：域渗透分析工具
-	  * sharp net check：出网探测工具
-	- socks over rdp：rdp协议内网穿透工具
-	- spp：内网穿透工具（https://github.com/esrrhs/spp）
-	- stowaway：内网穿透工具（https://github.com/ph4ntonn/Stowaway）
-	- wce：windows凭证编辑工具
-	- wget：下载工具
+    - neo-regeorg：regeorg改良版（https://github.com/L-codes/Neo-reGeorg）
+    - openrdp：开启远程桌面工具
+    - pe：冰封pe iso镜像
+    - powershdll：powershell工具
+    - ps2exe：powershell转exe工具
+    - pstools：微软官方psexec工具
+    - reverseshell：反弹shell工具
+    - revsh：内网穿透工具（https://github.com/emptymonkey/revsh）
+    - scrun：k8 shellcode加载工具
+    - sharp tools：
+      * sharp adi dnsdump：域dns枚举工具
+      * sharp decrypt pwd：浏览器密码解密工具
+      * sharp event log：日志分析工具
+      * sharp hound：域渗透分析工具
+      * sharp net check：出网探测工具
+    - socks over rdp：rdp协议内网穿透工具
+    - spp：内网穿透工具（https://github.com/esrrhs/spp）
+    - stowaway：内网穿透工具（https://github.com/ph4ntonn/Stowaway）
+    - wce：windows凭证编辑工具
+    - wget：下载工具
     - wmihacker：wmi渗透工具
     - xray：扫描工具（https://github.com/chaitin/xray）
     - 更多内网工具见 C:\Penetration\IntranetTools
@@ -284,10 +284,10 @@
 **`[+] OfficeTools 办公工具：`**
     
     - adobe acrobat dc 2020：pdf编辑工具
-	- adobe audition 2020：音频编辑工具
-	- adobe photoshop 2020：图片编辑工具
-	- office 六件套: word + excel + powerpoint + access + onenote + outlook
-	- wps三件套：word + excel + powerpoint
+    - adobe audition 2020：音频编辑工具
+    - adobe photoshop 2020：图片编辑工具
+    - office 六件套: word + excel + powerpoint + access + onenote + outlook
+    - wps三件套：word + excel + powerpoint
 
 **`[+] ProgramTools 编程工具：`**
    
@@ -296,12 +296,12 @@
       * jre1.8.0：已配置环境变量，系统默认调用java8
       * openjdk15.0.2：绿色版，如有特殊软件需要java15环境运行可直接调用/bin/java.exe即可
     - python：
-	  * python2：python2命令启动（python2 test.py）
+      * python2：python2命令启动（python2 test.py）
       * python3：python3命令启动（python3 test.py）
       * 已集成本镜像所有python3工具的pip依赖库
       * 使用pip命令调用python3 pip
-	- tdm gcc
-	- visual studio 2015
+    - tdm gcc
+    - visual studio 2015
 
 **`[+] ReverseTools 逆向工具：`**
     
@@ -319,8 +319,8 @@
     - acunetix: web vulnerability scanner 14.7.220401065（注册版）（可扫描Log4j & spring core rce）
       * user: admin@awvs.com
       * pass: Admin@awvs.com
-	- appscan：app scan 10.0.7（注册版）
-	- nmap：端口扫描工具
+    - appscan：app scan 10.0.7（注册版）
+    - nmap：端口扫描工具
     - router scan: c段扫描工具
     - snet cracker: 弱口令扫描工具
     - scan box:
@@ -335,9 +335,9 @@
         - githack
         - ...
       * subdomain 子域名探测工具：
-	    - fofa view：fofa查询工具
-		- oneforall：https://github.com/shmilylty/OneForAll
-		- securitytrails
+        - fofa view：fofa查询工具
+        - oneforall：https://github.com/shmilylty/OneForAll
+        - securitytrails
         - sublist3r：https://github.com/aboul3la/Sublist3r
         - subfinder：https://github.com/projectdiscovery/subfinder
         - webtitle
@@ -352,11 +352,11 @@
     - behinder: 冰蝎（shell密码统一为cmd）（https://github.com/rebeyond/Behinder）
       * behinder 2.0.1
       * behinder 3.0 beta11
-	  * behinder 3.3.2修改版（https://github.com/angels520/rebeyond-Mode）
+      * behinder 3.3.2修改版（https://github.com/angels520/rebeyond-Mode）
     - cobaltstrike: 4.4汉化版
-	  * 使用csagent汉化（https://github.com/Twi1ight/CSAgent）
-	  * 去除cobaltstrike特征（修改端口 + 重签证书 + random.profile）
-	  * vps启动teamserver：./teamserver ip port random.profile
+      * 使用csagent汉化（https://github.com/Twi1ight/CSAgent）
+      * 去除cobaltstrike特征（修改端口 + 重签证书 + random.profile）
+      * vps启动teamserver：./teamserver ip port random.profile
       * 集成插件：（C:\Penetration\ShellTools\CobaltStrike\scripts）
         - adcollection
         - bypassav
@@ -375,11 +375,11 @@
       * 修改软件源为阿里云 + 清华大学
       * 完整安装kali linux所有软件包
       * 安装xrdp服务，可用rdp客户端打开kali linux图形化模式
-	  * kali命令行模式下运行/home/kali/xrdp-restart.sh打开xrdp服务，即可使用rdp登录kali
-	  * rdp配置：127.0.0.1:3390
-	  * kali命令行模式下运行/home/kali/xrdp-stop.sh关闭xrdp服务
-	  * 如果不需要使用图形化模式，建议关闭xrdp服务（非常占用资源）
-	- pyshell：python版shell管理工具（https://github.com/JoelGMSec/PyShell）
+        - kali命令行模式下运行/home/kali/xrdp-restart.sh打开xrdp服务，即可使用rdp登录kali
+        - rdp配置：127.0.0.1:3390
+        - kali命令行模式下运行/home/kali/xrdp-stop.sh关闭xrdp服务
+        - 如果不需要使用图形化模式，建议关闭xrdp服务（非常占用资源）
+    - pyshell：python版shell管理工具（https://github.com/JoelGMSec/PyShell）
     - skyscorpion：天蝎（shell密码统一为cmd）（https://github.com/shack2/skyscorpion）
     - shell:免杀一句话木马（密码统一为cmd）
     - webshell: webshell收集项目（https://github.com/tennc/webshell）
