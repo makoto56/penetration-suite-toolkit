@@ -224,7 +224,7 @@
     - system-vulnerability：https://github.com/mai-lang-chai/system-vulnerability
     - vulmap：web漏扫验证工具（https://github.com/zhzyker/vulmap）
     - vulnerability：https://github.com/edgesecurityteam/vulnerability
-    - 更多漏洞exp见 c:\Penetration\ExpolitTools
+    - 更多漏洞exp见 c:\Penetration\ExpolitTools（漏洞exp较多，请善用everything搜索）
 
 **`[+] IntranetTools 内网工具:`**
     
