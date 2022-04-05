@@ -443,8 +443,8 @@
     
 **`下载链接：`**
 
-uploading ...
-PS：迅雷限制每天上传20G ...
+链接：https://pan.xunlei.com/s/VMzuZMn_adcsVsHKVk7gw6HhA1
+提取码：dhck
 
 **`截图预览：`**
 
