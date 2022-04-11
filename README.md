@@ -52,7 +52,7 @@
     5. 本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器；
     6. 本项目由于后期调试原因可能会遗留部分本人的信息，请直接忽视；
     7. 本项目坚决不接受也从未曾接受任何形式的赞助；
-	8. 如果您有好的意见或者建议，请联系邮箱burpsuite@qq.com。
+    8. 如果您有好的意见或者建议，请联系邮箱burpsuite@qq.com。
     
 **`免责声明：`**
 
@@ -65,7 +65,7 @@
 **`1. 系统环境类：`**
     
     - Directx
-	- Net Framework 3.5
+    - Net Framework 3.5
     - Net Framework 4.72
     - Visual basic virtual machine
     - Microsoft C runtime library
@@ -74,7 +74,7 @@
 
 **`2. WindowsApp类：`**
 
-    - wsl kali linux
+    - WSL kali linux
     - Windows Terminal（已替换默认cmd）
 
 **`3. 其他工具类 （C:\Softwares）：`**
@@ -82,7 +82,7 @@
     - aact: 激活工具（一键激活windows & office）
     - bandicam: 视频录制工具（注册版）
     - bandizip: 压缩工具
-    - chrome: 99.0 shuax 绿色修改版
+    - chrome: 99.0 绿色修改版
       * 主要集成插件:
         - adblock: 广告拦截工具
         - adobe acrobat：pdf工具
@@ -164,7 +164,7 @@
     - shellcodeloader：https://github.com/knownsec/shellcodeloader
     - vmprotect: 加壳工具（商业加壳，生成exe体积大）
     - vprotect: 加壳工具（商业加壳，生成exe体积较大）
-	- zhetian：遮天shellcode加载工具（https://github.com/yqcs/ZheTian）
+    - zhetian：遮天shellcode加载工具（https://github.com/yqcs/ZheTian）
     
 **`[+] ConnectTools 连接工具:`**
     
@@ -176,31 +176,31 @@
 
 **`[+] CrackTools 破解工具:`**
     
-    - access password recovery: access密码破解工具
-    - archive password recovery: 压缩包密码破解工具
-    - office password recovery: office密码破解工具
-    - pdf password recovery: pdf密码破解工具
+    - access password recovery: access 密码破解工具
+    - archive password recovery: zip & rar 密码破解工具
+    - office password recovery: office 密码破解工具
+    - pdf password recovery: pdf 密码破解工具
     
 **`[+] DatabaseTools 数据库工具:`**
     
     - navicat premium: 数据库连接管理工具
-	- neo4j：neo4j数据库管理工具
+    - neo4j：neo4j数据库管理工具
     - sharp sql tools：mssql数据库利用工具
     - sqlite：sqlite数据库管理工具
     - sqlknife：mssql数据库利用工具
     - sqlmap: 注入工具
-	- sylas：mssql & orcle & postgresql数据库利用工具
-	- toad：oracle数据库管理工具
+    - sylas：mssql & orcle & postgresql数据库利用工具
+    - toad：oracle数据库管理工具
 
 **` [+] DictionaryTools 字典工具:`**
     
     - mutoudic：木头字典生成工具（注册版）
     - pentestdicts：https://github.com/ppbibo/pentesterspecialdict
-	- pwdbud：https://github.com/ort4u/PwdBUD
+    - pwdbud：字典生成工具（https://github.com/ort4u/PwdBUD）
 
 **` [+] DiskTools 磁盘工具:`**
     
-    - diskgenius: disk genius 专业版（可恢复硬盘数据）
+    - diskgenius: 专业版（可恢复硬盘数据）
     - ssdfresh：ssd优化工具
 
 **`[+] EditTools 编辑工具:`**
@@ -291,7 +291,7 @@
 
 **`[+] OfficeTools 办公工具：`**
     
-    - adobe acrobat dc 2020：pdf编辑工具
+    - adobe acrobat dc 2020：PDF编辑工具
     - adobe audition 2020：音频编辑工具
     - adobe photoshop 2020：图片编辑工具
     - office 六件套: word + excel + powerpoint + access + onenote + outlook
@@ -329,7 +329,7 @@
       * pass: Admin@awvs.com
     - appscan：app scan 10.0.7（注册版）
     - nmap：端口扫描工具
-    - router scan: c段扫描工具
+    - router scan: C段扫描工具
     - snet cracker: 弱口令扫描工具
     - scan box:
       * avscan 杀毒软件检测工具：
