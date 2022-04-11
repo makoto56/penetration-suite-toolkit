@@ -1,4 +1,5 @@
 # windows 10 Penetration Suite Toolkit With Kali Linux inSide Update On 2022.04.05
+https://img.shields.io/badge/version-3.0-brightgreen
 
 **`2022.04.09 补充说明`**
 
