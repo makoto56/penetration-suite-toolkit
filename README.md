@@ -24,7 +24,7 @@
 **`系统简介`**
 
     - 基于Win10 Workstation 21H2 x64 MSDN原版镜像制作；
-    - 完整安装WSL Kali Linux 2021.2，并配置图形化模式；
+    - 完整安装WSL Kali Linux 2022.1，并配置图形化模式；
     - 精简系统自带软件，美化字体及部分图标，适度优化；
     - 镜像容量74.5G，使用单磁盘文件存储，提升性能；
     - 建议运行环境：
@@ -376,7 +376,7 @@
         - taowu
 	- gbbypass：jsp免杀工具（https://github.com/czz1233/GBByPass）
     - godzilla：哥斯拉（密码为默认pass + key）（https://github.com/BeichenDream/Godzilla）
-    - kali：wsl kali linux 2021.2
+    - kali：wsl kali linux 2022.1
       * 用户：
         - user：kali pass：kali
         - user：root pass：root
