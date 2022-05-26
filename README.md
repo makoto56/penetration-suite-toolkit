@@ -15,6 +15,7 @@
 	   Ubuntu 20 x64
 	   
 	   所有虚拟机镜像均安装：
+	   VMTools
 	   7z
 	   Microsoft Visual C++ 2008-2022 运行库
 	   密钥或激活工具激活
