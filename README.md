@@ -62,7 +62,7 @@
 
     1. 所有的安装类软件均下载自软件对应的官方网站；
     2. 所有的绿色类软件均下载自果核剥壳。（https://www.ghxi.com/）；
-    3. 所有的脚本类工具均下载自github。（https://github.com/）；
+    3. 所有的脚本类工具均下载自github。
     4. 部分授权类工具（破解版）及优秀的渗透工具来自微信公众号分享；
     
        * 排名不分先后，同时也推荐大家关注，一起变得更强。
@@ -95,7 +95,7 @@
     - Net Framework 4.72
     - Visual basic virtual machine
     - Microsoft C runtime library
-    - Microsoft visual C++ 2005-2019
+    - Microsoft visual C++ 2005-2022
     - 集成常用字库
 
 **`2. WindowsApp类：`**
@@ -320,8 +320,8 @@
     - adobe acrobat dc 2020：PDF编辑工具
     - adobe audition 2020：音频编辑工具
     - adobe photoshop 2020：图片编辑工具
-    - office 六件套: word + excel + powerpoint + access + onenote + outlook
-    - wps三件套：word + excel + powerpoint
+    - office: word + excel + powerpoint + access + onenote + outlook
+    - wps：word + excel + powerpoint
 
 **`[+] ProgramTools 编程工具：`**
    
