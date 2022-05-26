@@ -1,6 +1,27 @@
 # Windows10 Penetration Suite Toolkit within Kali Linux
 ![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg)  ![image](https://img.shields.io/badge/Release-v3.0-blue.svg)  ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg) ![image](https://img.shields.io/badge/Update-2022.04.05-ff69b4.svg)
 
+**`2022.05.26 补充内容`**
+
+	1. 全新制作全套虚拟机镜像，包含：
+	
+	   Windows 7 x64
+	   Windows 8 x64
+	   Windows 10 x64
+	   Windows Server 2008 x64
+	   Windows Server 2012 x64
+	   Windows Server 2016 x64
+	   Windows Server 2019 x64
+	   Ubuntu 20 x64
+	   
+	   所有虚拟机镜像均安装：
+	   7z
+	   Microsoft Visual C++ 2008-2022 运行库
+	   密钥或激活工具激活
+	   
+	   可供测试软件，环境搭建等用途。
+	   虚拟机账号密码已备注在VMware说明栏处，请注意查看。
+	   
 **`2022.04.09 补充说明`**
 
 	1. 火绒可能会拦截对外攻击行为，在测试exp的时候如果失败可以查看火绒日志看是否被拦截。
