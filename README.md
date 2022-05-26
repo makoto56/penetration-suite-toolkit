@@ -390,7 +390,7 @@
     - cobaltstrike: 4.4汉化版
       * 使用csagent汉化（https://github.com/Twi1ight/CSAgent）
       * 去除cobaltstrike特征（修改端口 + 重签证书 + random.profile）
-      * vps启动teamserver：./teamserver ip port random.profile
+      * vps启动teamserver：./teamserver ip password random.profile
       * 集成插件：（C:\Penetration\ShellTools\CobaltStrike\scripts）
         - adcollection
         - bypassav
