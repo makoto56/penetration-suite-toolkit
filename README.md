@@ -19,8 +19,11 @@
 4. **使用单磁盘文件存储，提升性能；**
 
 > **推荐运行环境：**
+> 
 > **vmware：16.x（vmware图形内存1G）**
+> 
 > **运行内存：8G**
+> 
 > **固态硬盘：200G**
 
 # **制作声明：**
@@ -73,38 +76,71 @@
 > **主要集成插件:**
 
 > **Adblock: 广告拦截工具**
+> 
 > **Charset：修改网页编码工具**
+> 
 > **Chrome清理大师: chrome清理工具**
+> 
 > **Editthiscookie: cookie编辑工具**
+> 
 > **FindSomething：敏感文件搜集工具**
+> 
 > **Fofa view：fofa工具**
+> 
 > **Funnel search：google搜索工具**
+> 
 > **Hackbar**
+> 
 > **Hack-Tools：红队综合小工具**
+> 
 > **Heimdallr：指纹识别、蜜罐特征告警工具**
+> 
 > **IE Tab：ie兼容模式工具**
+> 
 > **Infinity：标签页工具**
+> 
 > **IP address and domain inf: ip&domain探测工具**
+> 
 > **IP whois: whois 探测工具**
+> 
 > **Neater bookmarks: 书签管理工具**
+> 
 > **Octotree: github资源树查看工具**
+> 
 > **Onetab：标签管理工具**
+> 
 > **Penetration Testing Kit：红队综合小工具**
+> 
 > **Postwoman：接口调试工具**
+> 
 > **Proxy switchyomega：代理切换工具**
+> 
 > **Seoquake：网页统计工具**
+> 
 > **Supercopy：超级复制**
+> 
 > **Tampermonkey：脚本工具**
+> 
 > **User-Agent Switcher：浏览头切换工具**
+> 
 > **Toolbox 常用工具: 集成常用小工具**
+> 
 > **Vulners Web Scanner：微型漏洞扫描工具**
+> 
 > **Wappalyzer：网页技术分析工具**
+> 
 > **WebSocket Test Client：websocket工具**
+> 
 > **Whatruns：网页技术分析工具**
+
 > **XSS辅助工具**
+
 > **X情报查询助手：微步社区**
+
 > **YetAnotherDragAndGo: 超链接拖拽新窗口打开**
+
 > **ZoomEye Tools**
+
 > **类似的网站**
 
 5. **Contextmenumanager：右键菜单管理工具**
