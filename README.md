@@ -131,12 +131,17 @@
 > 
 > **WebSocket Test Client：websocket工具**
 > 
-> **Whatruns：网页技术分析工具** 
-> **XSS辅助工具** 
-> **X情报查询助手：微步社区** 
-> **YetAnotherDragAndGo: 超链接拖拽新窗口打开** 
-> **ZoomEye Tools** 
-> **类似的网站** 
+> **Whatruns：网页技术分析工具**
+> 
+> **XSS辅助工具**
+> 
+> **X情报查询助手：微步社区**
+> 
+> **YetAnotherDragAndGo: 超链接拖拽新窗口打开**
+> 
+> **ZoomEye Tools**
+> 
+> **类似的网站**
 
 5. **Contextmenumanager：右键菜单管理工具**
 6. **Dism++: 系统调节工具**
@@ -196,15 +201,25 @@
 9. **Nox：夜神安卓模拟器（安卓9.0）**
 
 > **已安装:**
+> 
 > **Debug Proxy**
+> 
 > **HttpCanary**
+> 
 > **JuiceSSH**
+> 
 > **MT**
+> 
 > **Net Capture**
+> 
 > **NP**
+> 
 > **Packet Capture**
+> 
 > **ProxyDroid**
+> 
 > **Terminal Emulator**
+> 
 > **开发者助手**
 
 10. **Yaazhini：apk漏洞扫描工具（https://www.vegabird.com/yaazhini/）**
@@ -247,18 +262,31 @@
 5. **DecryptPassword**
 
 > **文件夹下集成下列密码破解工具：**
+> 
 > **finalshell-decoder：https://github.com/passer-W/FinalShell-Decoder**
+> 
 > **finalshellPasswordDecoder：https://github.com/qurikuduo/finalshellPasswordDecoder**
+> 
 > **firefox_decrypt：https://github.com/unode/firefox_decrypt**
+> 
 > **FireFox-Thief：https://github.com/LimerBoy/FireFox-Thief**
+> 
 > **hack-browser-data-windows：https://github.com/moonD4rk/HackBrowserData**
+> 
 > **how-does-navicat-encrypt-password：https://github.com/HyperSine/how-does-navicat-encrypt-password**
+> 
 > **how-does-SecureCRT-encrypt-password：https://github.com/HyperSine/how-does-SecureCRT-encrypt-password**
+> 
 > **how-does-Xmanager-encrypt-password：https://github.com/HyperSine/how-does-Xmanager-encrypt-password**
+> 
 > **Safe360Browsergetpass**
+> 
 > **SharpDecryptPwd：https://github.com/uknowsec/SharpDecryptPwd**
+> 
 > **teamviewer-dumper：https://github.com/attackercan/teamviewer-dumper**
+> 
 > **vcenterExsi_PwdDecrypt**
+> 
 > **winscppasswd：https://github.com/anoopengineer/winscppasswd**
 
 6. **Hydra: 口令爆破工具（https://github.com/vanhauser-thc/thc-hydra）**
@@ -267,8 +295,11 @@
 9. **WebshellCrack：一句话密码破解工具**
 
 > **K8_FuckOneShell**
+> 
 > **K8_OneShellCrack**
+> 
 > **T00ls综合一句话爆破工具**
+> 
 
 ### **[+] 数据工具：**
 
