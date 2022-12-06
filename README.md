@@ -19,8 +19,11 @@
 4. **使用单磁盘文件存储，提升性能；**
 
 > **推荐运行环境：**
+
 > **vmware：16.x（vmware图形内存1G）**
+
 > **运行内存：8G**
+
 > **固态硬盘：200G**
 
 # **制作声明：**
@@ -61,7 +64,6 @@
 ## **WindowsApp类：**
 
 1. **WSL Kali Linux**
-
 2. **Windows Terminal（已替换默认cmd）**
 
 ## **其他工具类 （C:\Softwares）：**
@@ -72,7 +74,9 @@
 4. **Chrome: 108.0.5359 绿色修改版**
 
 > **主要集成插件:**
+
 > **Adblock: 广告拦截工具**
+
 > **Charset：修改网页编码工具**
 > **Chrome清理大师: chrome清理工具**
 > **Editthiscookie: cookie编辑工具**
