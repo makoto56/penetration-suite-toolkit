@@ -615,28 +615,50 @@
  - **AVScan 杀毒软件检测工具：**
  -- **CheckAV（自己写的辣鸡代码，如有需要可以随便使用）**
  - **LeakScan 敏感文件扫描工具：**	
+ 
     -- **dirMap：https://github.com/H4ckForJob/dirmap**
+    
     -- **dirSearch：https://github.com/maurosoria/dirsearch**
+    
     -- **PackerFuzzer：https://github.com/rtcatc/Packer-Fuzzer**
+    
     -- **ScanTools：https://gitee.com/windyjxx/ScanTools**
+    
     -- **Yujian**
+    
     -- **GitHack**
+    
     -- **7KB WebPath Brute**
+    
     -- **7KB Ucenter Sniper**
+    
     -- **7KB WordPress Sniper**
+    
     -- **...**
+    
  - **SubDomain 子域名探测工具：**
     -- **FofaView：fofa查询工具**
+    
     -- **InfoSearchAll：https://github.com/ExpLangcn/InfoSearchAll**
+    
     -- **Layer：子域名挖掘机**
+    
     -- **OneforAll：https://github.com/shmilylty/OneForAll**
+    
     -- **Securitytrails：Securitytrails官方api脚本**
+    
     -- **SnowShadow：https://github.com/jinsezlb/SnowShadow**
+    
     -- **Sublist3r：https://github.com/aboul3la/Sublist3r**
+    
     -- **Subfinder：https://github.com/projectdiscovery/subfinder**
+    
     -- **ThunderSearch：https://github.com/xzajyjs/ThunderSearch**
+    
     -- **WebBatchRequest：https://github.com/ScriptKid-Beta/WebBatchRequest**
+    
     -- **WebFinder：https://github.com/Liqunkit/webfinder-next**
+    
     -- **...**
 
 > **更多扫描工具见 C:\Penetration\ScanTools\ScanBox**
