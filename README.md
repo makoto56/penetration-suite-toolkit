@@ -1,7 +1,7 @@
 # **Windows10 Penetration Suite Toolkit within Kali Linux v4.0**
 ![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg) ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg) ![image](https://img.shields.io/badge/Version-4.0-yellow.svg) ![image](https://img.shields.io/badge/Update-2022.12.06-blue.svg)
 
-# **2022.12.06 更新说明：**
+# **2022.12.05 更新说明：**
 
 1. **由于Kali的图形化模式占用资源造成卡顿，且使用率不高，~~特此去除图形化模式~~。**
 > **如有需要可参照 https://blog.csdn.net/weixin_44285782/article/details/107442217**
@@ -33,7 +33,7 @@
 6. **本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器；**
 7. **本项目由于后期调试原因可能会遗留部分本人的信息，请直接忽视；**
 8. **本项目坚决不接受也从未曾接受任何形式的赞助。**
-9. **如果您有好的意见或者建议，请联系邮箱burpsuite@qq.com。**
+9. **如果您有好的意见或者建议，请联系邮箱 burpsuite@qq.com。**
 
 # **免责声明：**
 
@@ -144,12 +144,12 @@
 
 1. **AndroidHelper：apk逆向工具**
 2. **AndroidKiller：apk综合工具**
-3. **Apkinfo：apk分析工具（https://github.com/bihe0832/Android-GetAPKInfo）**
-4. **Apktool：apk反编译工具（https://github.com/iBotPeaches/Apktool）**
+3. **Apkinfo：apk分析工具 https://github.com/bihe0832/Android-GetAPKInfo**
+4. **Apktool：apk反编译工具 https://github.com/iBotPeaches/Apktool**
 5. **ApkToolbox：apk综合工具**
-6. **ApkToolPlus：apk反编译分析工具（https://github.com/linchaolong/ApkToolPlus）**
-7. **AppMessenger：apk分析工具（https://github.com/sulab999/AppMessenger）**
-8. **Dex2jar：dex打包工具（https://github.com/pxb1988/dex2jar）**
+6. **ApkToolPlus：apk反编译分析工具 https://github.com/linchaolong/ApkToolPlus**
+7. **AppMessenger：apk分析工具 https://github.com/sulab999/AppMessenger**
+8. **Dex2jar：dex打包工具 https://github.com/pxb1988/dex2jar**
 9. **Nox：夜神安卓模拟器（安卓9.0）**
  - **已安装:**
  - **Debug Proxy**
@@ -162,7 +162,7 @@
  - **ProxyDroid**
  - **Terminal Emulator**
  - **开发者助手**
-10. **Yaazhini：apk漏洞扫描工具（https://www.vegabird.com/yaazhini/）**
+10. **Yaazhini：apk漏洞扫描工具 https://www.vegabird.com/yaazhini/**
 
 ### **[+] 免杀工具：**
 
@@ -180,7 +180,7 @@
 12. **ShellcodeLoader：https://github.com/knownsec/shellcodeloader**
 13. **VMProtect: 加壳工具**
 14. **VProtect: 加壳工具**
-15. **ZheTian：遮天shellcode加载工具（https://github.com/yqcs/ZheTian）**
+15. **ZheTian：遮天shellcode加载工具 https://github.com/yqcs/ZheTian**
 
 ### **[+] 连接工具：**
 
@@ -214,7 +214,7 @@
  - **teamviewer-dumper：https://github.com/attackercan/teamviewer-dumper**
  - **vcenterExsi_PwdDecrypt**
  - **winscppasswd：https://github.com/anoopengineer/winscppasswd**
-6. **Hydra: 口令爆破工具（https://github.com/vanhauser-thc/thc-hydra）**
+6. **Hydra: 口令爆破工具 https://github.com/vanhauser-thc/thc-hydra**
 7. **MD5Crack：md5碰撞工具**
 8. **SNETCracker：超级弱口令破解工具**
 9. **WebshellCrack：一句话密码破解工具**
@@ -321,8 +321,8 @@
 3. **eSearch：截屏、录屏、OCR、搜索、翻译、贴图、以图搜图（已集成离线OCR库）**
 4. **FFRename：菲菲更名宝贝（专业版）**
 5. **FindStr: 文本检索工具**
-6. **FireKylin：系统痕迹采集（https://github.com/MountCloud/FireKylin）**
-7. **Fortify：22.1.0（注册版）**
+6. **FireKylin：系统痕迹采集 https://github.com/MountCloud/FireKylin**
+7. **Fortify：代码审计工具22.1.0（已集成rules）（注册版）**
 8. **JavaDecompiler: java查看编辑工具**
 9. **Jsonview: json查看编辑工具**
 10. **LogParse：windows日志分析工具**
@@ -422,27 +422,27 @@
 57. **Tools**
  - **AliyunAKTools：阿里云利用工具**
  - **AptTools：综合漏洞利用工具**
- - **CF：云环境利用框架（https://github.com/teamssix/cf）**
- - **CodeTest：综合漏洞利用工具（https://github.com/codeyso/CodeTest）**
+ - **CF：云环境利用框架 https://github.com/teamssix/cf**
+ - **CodeTest：综合漏洞利用工具 https://github.com/codeyso/CodeTest**
  - **docs-0sec：零组文档库**
  - **docs-base：漏洞文档库**
- - **Fuxploider：漏洞扫描工具（https://github.com/almandin/fuxploider）**
- - **Gr33k：综合漏洞利用工具（https://github.com/lijiaxing1997/Gr33k）**
+ - **Fuxploider：漏洞扫描工具 https://github.com/almandin/fuxploider**
+ - **Gr33k：综合漏洞利用工具 https://github.com/lijiaxing1997/Gr33k**
  - **~~HVVExploitApply：寻云安全团队1.5 综合漏洞利用工具（未取得授权，特此删除）~~**
  - **LiqunKit：综合漏洞利用工具**
- - **MYExploit：综合漏洞利用工具（https://github.com/achuna33/MYExploit）**
- - **NSudoLG：windows提权工具（https://github.com/Thdub/NSudo_Installer）**
- - **Nuclei：内网扫描工具（https://github.com/projectdiscovery/nuclei）**
+ - **MYExploit：综合漏洞利用工具 https://github.com/achuna33/MYExploit**
+ - **NSudoLG：windows提权工具 https://github.com/Thdub/NSudo_Installer**
+ - **Nuclei：内网扫描工具 https://github.com/projectdiscovery/nuclei**
  - **OATools：OA漏洞利用工具**
- - **POCbomber：综合漏洞利用工具（https://github.com/tr0uble-mAker/POC-bomber）**
- - **poc2jar：综合漏洞利用工具（https://github.com/f0ng/poc2jar）**
- - **Ruoyi-All：综合漏洞利用工具（https://github.com/thelostworldFree/Ruoyi-All）**
- - **Shenji：综合漏洞利用工具（https://github.com/yhy0/ExpDemo-JavaFX）**
- - **SuperXray：综合漏洞利用工具（https://github.com/4ra1n/super-xray）**
- - **Vulmap：综合漏洞利用工具（https://github.com/zhzyker/vulmap）**
- - **WinExpSuggester-NG：windows提权工具（https://github.com/bitsadmin/wesng）**
- - **WinExpSuggester：windows提权工具（https://github.com/0xToast/Windows-Exploit-Suggester-Py-3）**
- - **Xray：漏洞扫描工具（https://github.com/chaitin/xray）**
+ - **POCbomber：综合漏洞利用工具 https://github.com/tr0uble-mAker/POC-bomber**
+ - **poc2jar：综合漏洞利用工具 https://github.com/f0ng/poc2jar**
+ - **Ruoyi-All：综合漏洞利用工具 https://github.com/thelostworldFree/Ruoyi-All**
+ - **Shenji：综合漏洞利用工具 https://github.com/yhy0/ExpDemo-JavaFX**
+ - **SuperXray：综合漏洞利用工具 https://github.com/4ra1n/super-xray**
+ - **Vulmap：综合漏洞利用工具 https://github.com/zhzyker/vulmap**
+ - **WinExpSuggester-NG：windows提权工具 https://github.com/bitsadmin/wesng**
+ - **WinExpSuggester：windows提权工具 https://github.com/0xToast/Windows-Exploit-Suggester-Py-3**
+ - **Xray：漏洞扫描工具 https://github.com/chaitin/xray**
  - **Ysoserial**
 58. **TPLink**
 59. **VMware**
@@ -470,7 +470,7 @@
 67. **Zoho**
 68. **Zyxel**
 > **漏洞库综合了下列项目：**
- - **CMSHunter:https://github.com/SecWiki/CMS-Hunter**
+ - **CMSHunter：https://github.com/SecWiki/CMS-Hunter**
  - **expHub：https://github.com/zhzyker/exphub**
  - **Middleware-Vulnerability-Detection：https://github.com/mai-lang-chai/middleware-vulnerability-detection**
  - **System-Vulnerability：https://github.com/mai-lang-chai/system-vulnerability**
@@ -479,85 +479,85 @@
 
 ### **[+] 内网工具：**
 
-1. **3Gstudent：三好学生powershell & python脚本（https://github.com/3gstudent）**
-2. **ABPTTS：内网穿透工具（https://github.com/nccgroup/ABPTTS）**
+1. **3Gstudent：三好学生powershell & python脚本 https://github.com/3gstudent**
+2. **ABPTTS：内网穿透工具 https://github.com/nccgroup/ABPTTS**
 3. **AddUser: 添加用户工具**
 4. **ADExplore：ldap工具**
-5. **ADinfo：内网信息搜集工具（https://github.com/lzzbb/Adinfo）**
-6. **Aoratos：软件运行痕迹清理工具（https://github.com/PinoyWH1Z/AoratosWin）**
+5. **ADinfo：内网信息搜集工具 https://github.com/lzzbb/Adinfo**
+6. **Aoratos：软件运行痕迹清理工具 https://github.com/PinoyWH1Z/AoratosWin**
 7. **BloodHound：域渗透分析工具**
 8. **BloudyAD：域渗透利用工具**
 9. **BruteLogon：windows口令爆破工具**
 10. **ClearLogs：windows日志清除工具**
-11. **CrackMapExec：内网综合利用工具（https://github.com/Porchetta-Industries/CrackMapExec）**
-12. **DefeatDefender：关闭defender工具（https://github.com/Back-X/Defeat-Defender）**
-13. **DomainTools：域渗透综合利用工具（https://github.com/SkewwG/domainTools）**
-14. **DomainInfoFind：获取域内机器的桌面文件（https://github.com/wangfly-me/DomainInfo_Find）**
+11. **CrackMapExec：内网综合利用工具 https://github.com/Porchetta-Industries/CrackMapExec**
+12. **DefeatDefender：关闭defender工具 https://github.com/Back-X/Defeat-Defender**
+13. **DomainTools：域渗透综合利用工具 https://github.com/SkewwG/domainTools**
+14. **DomainInfoFind：获取域内机器的桌面文件 https://github.com/wangfly-me/DomainInfo_Find**
 15. **EarthWorm: 内网穿透工具**
-16. **Frp: 内网穿透工具（https://github.com/fatedier/frp）**
-17. **FScan：内网扫描工具（https://github.com/shadow1ng/fscan）**
+16. **Frp: 内网穿透工具 https://github.com/fatedier/frp**
+17. **FScan：内网扫描工具 https://github.com/shadow1ng/fscan**
 18. **GetWinInfo：windows信息搜集工具**
 19. **Gorailgun：内网渗透综合利用工具**
  - **password：三个空格**
-19. **GoToHTTP：远控工具（https://gotohttp.com/）**
-20. **Hoaxshell：远控工具（https://github.com/t3l3machus/hoaxshell）**
-21. **impacket：内网协议工具（https://github.com/SecureAuthCorp/impacket）**
-22. **iox：流量代理工具（https://github.com/EddieIvan01/iox）**
+19. **GoToHTTP：远控工具 https://gotohttp.com/**
+20. **Hoaxshell：远控工具 https://github.com/t3l3machus/hoaxshell**
+21. **impacket：内网协议工具 https://github.com/SecureAuthCorp/impacket**
+22. **iox：流量代理工具 https://github.com/EddieIvan01/iox**
 23. **Ladon：内网扫描工具（小密圈9.3版本）**
 24. **LCX：端口转发工具**
 25. **LdapAdmin：ldap工具**
-26. **LDAPDomainDump：ldap工具（https://github.com/dirkjanm/ldapdomaindump）**
+26. **LDAPDomainDump：ldap工具 https://github.com/dirkjanm/ldapdomaindump**
 27. **Mimikatz：密码抓取工具**
- - **文件夹下集成下列密码抓取工具**
- - **gosecretsdump（https://github.com/C-Sto/gosecretsdump）**
+> **文件夹下集成下列密码抓取工具**
+ - **gosecretsdump：https://github.com/C-Sto/gosecretsdump**
  - **hklm**
- - **kekeo（https://github.com/gentilkiwi/kekeo）**
- - **lazagne（https://github.com/AlessandroZ/LaZagne）**
- - **mimipenguin（https://github.com/huntergregal/mimipenguin）**
- - **ntdsdumpex（https://github.com/zcgonvh/NTDSDumpEx）**
+ - **kekeo：https://github.com/gentilkiwi/kekeo**
+ - **lazagne：https://github.com/AlessandroZ/LaZagne**
+ - **mimipenguin：https://github.com/huntergregal/mimipenguin**
+ - **ntdsdumpex：https://github.com/zcgonvh/NTDSDumpEx**
  - **procdump**
- - **pwdump（https://www.openwall.com/passwords/windows-pwdump）**
- - **quarkspwdump（https://blog.quarkslab.com/quarks-pwdump.html）**
-28. **Mip22：网页钓鱼工具（https://github.com/makdosx/mip22）**
-29. **Moonwalk：linux取证工具（https://github.com/mufeedvh/moonwalk）**
-30. **Nacs：内网扫描工具（https://github.com/u21h2/nacs）**
+ - **pwdump：https://www.openwall.com/passwords/windows-pwdump**
+ - **quarkspwdump：https://blog.quarkslab.com/quarks-pwdump.html**
+28. **Mip22：网页钓鱼工具 https://github.com/makdosx/mip22**
+29. **Moonwalk：linux取证工具 https://github.com/mufeedvh/moonwalk**
+30. **Nacs：内网扫描工具 https://github.com/u21h2/nacs**
 31. **NC: 监听工具**
-32. **Neo-reGeorg：regeorg重构版（https://github.com/L-codes/Neo-reGeorg）**
-33. **NetSpy：内网网段探测工具（https://github.com/shmilylty/netspy）**
-34. **NPS：内网代理工具（https://github.com/ehang-io/nps）**
+32. **Neo-reGeorg：regeorg重构版 https://github.com/L-codes/Neo-reGeorg**
+33. **NetSpy：内网网段探测工具 https://github.com/shmilylty/netspy**
+34. **NPS：内网代理工具 https://github.com/ehang-io/nps**
 35. **OpenRDP：开启远程桌面工具**
 36. **OpenSSH：ssh工具**
 37. **Pack：打包工具**
  - **7z（单文件版）**
-38. **PE：WeiPE镜像（https://www.wepe.com.cn/）**
-39. **PEASS-ng：linux取证工具（https://github.com/carlospolop/PEASS-ng）**
-40. **PowerProxy：powershell代理工具（https://github.com/get-get-get-get/PowerProxy）**
-41. **PowershDLL：powershell工具（https://github.com/p3nt4/PowerShdll）**
+38. **PE：WeiPE镜像 https://www.wepe.com.cn/**
+39. **PEASS-ng：linux取证工具 https://github.com/carlospolop/PEASS-ng**
+40. **PowerProxy：powershell代理工具 https://github.com/get-get-get-get/PowerProxy**
+41. **PowershDLL：powershell工具 https://github.com/p3nt4/PowerShdll**
 42. **PS2EXE：powershell转exe工具**
-43. **PSTools：微软psexec工具（https://learn.microsoft.com/en-us/sysinternals/downloads/pstools）**
-44. **PyStinger：流量代理工具（https://github.com/FunnyWolf/pystinger）**
+43. **PSTools：微软psexec工具 https://learn.microsoft.com/en-us/sysinternals/downloads/pstools**
+44. **PyStinger：流量代理工具 https://github.com/FunnyWolf/pystinger**
 45. **ReverseShell：反弹shell工具**
-46. **revsh：内网穿透工具（https://github.com/emptymonkey/revsh）**
-47. **Scan4all：内网扫描工具（https://github.com/hktalent/scan4all）**
-48. **ScheduleRunner：计划任务利用工具（https://github.com/netero1010/ScheduleRunner）**
+46. **revsh：内网穿透工具 https://github.com/emptymonkey/revsh**
+47. **Scan4all：内网扫描工具 https://github.com/hktalent/scan4all**
+48. **ScheduleRunner：计划任务利用工具 https://github.com/netero1010/ScheduleRunner**
 49. **SharpTools：**
  - **CatchBrowser：浏览器密码抓取工具**
- - **SharpAdiDnsDump：域dns枚举工具（https://github.com/b4rtik/SharpAdidnsdump）**
- - **SharpDecryptPwd：浏览器密码解密工具（https://github.com/RowTeam/SharpDecryptPwd）**
- - **SharpEventLog：日志分析工具（https://github.com/uknowsec/SharpEventLog）**
- - **SharpHound：域渗透分析工具（https://github.com/BloodHoundAD/SharpHound）**
+ - **SharpAdiDnsDump：域dns枚举工具 https://github.com/b4rtik/SharpAdidnsdump**
+ - **SharpDecryptPwd：浏览器密码解密工具 https://github.com/RowTeam/SharpDecryptPwd**
+ - **SharpEventLog：日志分析工具 https://github.com/uknowsec/SharpEventLog**
+ - **SharpHound：域渗透分析工具 https://github.com/BloodHoundAD/SharpHound**
  - **SharpListRDPConnections：rdp连接记录枚举工具**
- - **SharpNetCheck：出网探测工具（https://github.com/uknowsec/SharpNetCheck）**
- - **SharpRDPLog：rdp连接记录枚举工具（https://github.com/Adminisme/SharpRDPLog）**
- - **SharpStrike：cobaltstrike工具（https://github.com/iomoath/SharpStrike）**
- - **SharpWxDump：微信解密工具（https://github.com/AdminTest0/SharpWxDump）**
-50. **StopDefender：关闭defender工具（https://github.com/lab52io/StopDefender）**
-51. **Stowaway：内网穿透工具（https://github.com/ph4ntonn/Stowaway）**
-52. **SweetBabyScan：内网扫描工具（https://github.com/inbug-team/SweetBabyScan）**
-53. **Traitor：linux提权工具（https://github.com/liamg/traitor）**
-54. **WCE：windows凭证编辑工具（https://github.com/returnvar/wce）**
+ - **SharpNetCheck：出网探测工具 https://github.com/uknowsec/SharpNetCheck**
+ - **SharpRDPLog：rdp连接记录枚举工具 https://github.com/Adminisme/SharpRDPLog**
+ - **SharpStrike：cobaltstrike工具 https://github.com/iomoath/SharpStrike**
+ - **SharpWxDump：微信解密工具 https://github.com/AdminTest0/SharpWxDump**
+50. **StopDefender：关闭defender工具 https://github.com/lab52io/StopDefender**
+51. **Stowaway：内网穿透工具 https://github.com/ph4ntonn/Stowaway**
+52. **SweetBabyScan：内网扫描工具 https://github.com/inbug-team/SweetBabyScan**
+53. **Traitor：linux提权工具 https://github.com/liamg/traitor**
+54. **WCE：windows凭证编辑工具 https://github.com/returnvar/wce**
 55. **Wget：下载工具**
-56. **wmiHacker：wmi渗透工具（https://github.com/rootclay/WMIHACKER）**
+56. **wmiHacker：wmi渗透工具 https://github.com/rootclay/WMIHACKER**
 > **更多内网工具见 C:\Penetration\IntranetTools**
 
 ### **[+] 办公工具：**
@@ -612,80 +612,57 @@
 5. **Nmap：端口扫描工具**
 6. **RouterScan: C段扫描工具**
 7. **ScanBox:**
- - **AVScan 杀毒软件检测工具：**
- -- **CheckAV（自己写的辣鸡代码，如有需要可以随便使用）**
- - **LeakScan 敏感文件扫描工具：**	
- 
-    -- **dirMap：https://github.com/H4ckForJob/dirmap**
-    
-    -- **dirSearch：https://github.com/maurosoria/dirsearch**
-    
-    -- **PackerFuzzer：https://github.com/rtcatc/Packer-Fuzzer**
-    
-    -- **ScanTools：https://gitee.com/windyjxx/ScanTools**
-    
-    -- **Yujian**
-    
-    -- **GitHack**
-    
-    -- **7KB WebPath Brute**
-    
-    -- **7KB Ucenter Sniper**
-    
-    -- **7KB WordPress Sniper**
-    
-    -- **...**
-    
- - **SubDomain 子域名探测工具：**
-    -- **FofaView：fofa查询工具**
-    
-    -- **InfoSearchAll：https://github.com/ExpLangcn/InfoSearchAll**
-    
-    -- **Layer：子域名挖掘机**
-    
-    -- **OneforAll：https://github.com/shmilylty/OneForAll**
-    
-    -- **Securitytrails：Securitytrails官方api脚本**
-    
-    -- **SnowShadow：https://github.com/jinsezlb/SnowShadow**
-    
-    -- **Sublist3r：https://github.com/aboul3la/Sublist3r**
-    
-    -- **Subfinder：https://github.com/projectdiscovery/subfinder**
-    
-    -- **ThunderSearch：https://github.com/xzajyjs/ThunderSearch**
-    
-    -- **WebBatchRequest：https://github.com/ScriptKid-Beta/WebBatchRequest**
-    
-    -- **WebFinder：https://github.com/Liqunkit/webfinder-next**
-    
-    -- **...**
-
+> **AVScan 杀毒软件检测工具：**
+ - **CheckAV（自己写的辣鸡代码，如有需要可以随便使用）**
+> **LeakScan 敏感文件扫描工具：**	
+ - **dirMap：https://github.com/H4ckForJob/dirmap**
+ - **dirSearch：https://github.com/maurosoria/dirsearch**
+ - **PackerFuzzer：https://github.com/rtcatc/Packer-Fuzzer**
+ - **ScanTools：https://gitee.com/windyjxx/ScanTools**
+ - **Yujian**
+ - **GitHack**
+ - **7KB WebPath Brute**
+ - **7KB Ucenter Sniper**
+ - **7KB WordPress Sniper**
+ - **...**
+> **SubDomain 子域名探测工具：**
+ - **FofaView：fofa查询工具**
+ - **InfoSearchAll：https://github.com/ExpLangcn/InfoSearchAll**
+ - **Layer：子域名挖掘机**
+ - **OneforAll：https://github.com/shmilylty/OneForAll**
+ - **Securitytrails：Securitytrails官方api脚本**
+ - **SnowShadow：https://github.com/jinsezlb/SnowShadow**
+ - **Sublist3r：https://github.com/aboul3la/Sublist3r**
+ - **Subfinder：https://github.com/projectdiscovery/subfinder**
+ - **ThunderSearch：https://github.com/xzajyjs/ThunderSearch**
+ - **WebBatchRequest：https://github.com/ScriptKid-Beta/WebBatchRequest**
+ - **WebFinder：https://github.com/Liqunkit/webfinder-next**
+ - **...**
 > **更多扫描工具见 C:\Penetration\ScanTools\ScanBox**
 
 ### **[+] 权限工具：**
 
-1. **AntSword: 蚁剑（已集成插件）（https://github.com/AntSwordProject/AntSword-Loader）**
-2. **Behinder: 冰蝎（shell密码统一为rebeyond）（https://github.com/rebeyond/Behinder）**
+1. **AntSword: 蚁剑（已集成插件）https://github.com/AntSwordProject/AntSword-Loader**
+2. **Behinder: 冰蝎（shell密码统一为rebeyond）https://github.com/rebeyond/Behinder**
  - **behinder 3.0 beta11**
  - **behinder 4.0.6**
-3. **cobaltstrike: Dog 4.4 汉化版（https://github.com/TryGOTry/DogCs4.4）**
- - **使用csagent汉化（https://github.com/Twi1ight/CSAgent）**
+3. **cobaltstrike: Dog 4.4 汉化版https://github.com/TryGOTry/DogCs4.4**
+ - **使用csagent汉化 https://github.com/Twi1ight/CSAgent**
  - **vps启动teamserver：sudo ./teamserver your_ip your_password random.profile**
  - **集成插件（C:\Penetration\ShellTools\CobaltStrike\Scripts）**
  - **adcollection**
- - **bypassav（https://github.com/hack2fun/BypassAV）**
- - **erebus（https://github.com/DeEpinGh0st/Erebus）**
+ - **bypassav：https://github.com/hack2fun/BypassAV**
+ - **erebus：https://github.com/DeEpinGh0st/Erebus**
  - **eval**
- - **eventlogmaster（https://github.com/QAX-A-Team/EventLogMaster）**
+ - **eventlogmaster：https://github.com/QAX-A-Team/EventLogMaster**
  - **ladon**
- - **mikasa（https://github.com/Mikasazero）**
- - **taowu（https://github.com/pandasec888/taowu-cobalt-strike）**
-4. **ByPassBehinder：jsp免杀工具（https://github.com/czz1233/GBByPass）**
+ - **mikasa：https://github.com/Mikasazero**
+ - **taowu：https://github.com/pandasec888/taowu-cobalt-strike**
+4. **ByPassBehinder：jsp免杀工具 https://github.com/czz1233/GBByPass**
 5. **Godzilla：https://github.com/BeichenDream/Godzilla**
 6. **Hema：河马webshell查杀工具**
 7. **Kali：WSL Kali Linux 2022.3**
- - **用户：**
+> **用户：**
  - **username：kali password：kali**
  - **username：root password：root**
  - **修改软件源为阿里云**
@@ -693,15 +670,15 @@
  - **由于Kali的图形化模式占用资源巨大，使用率较低，~~特此去除图形化模式~~。**
 8. **Skyscorpion：https://github.com/shack2/skyscorpion**
 9. **Shell:免杀一句话木马（密码统一为cmd）**
-10. **Webshell: webshell收集项目（https://github.com/tennc/webshell）**
-11. **WebshellBypassedHuman：webshell免杀（https://github.com/Macr0phag3/webshell-bypassed-human）**
-12. **WebshellGenerate：webshell生成工具（https://github.com/cseroad/Webshell_Generate）**
+10. **Webshell: webshell收集项目 https://github.com/tennc/webshell**
+11. **WebshellBypassedHuman：webshell免杀 https://github.com/Macr0phag3/webshell-bypassed-human**
+12. **WebshellGenerate：webshell生成工具 https://github.com/cseroad/Webshell_Generate**
 
 ### **[+] 流量工具：**
 
 1. **BlueTeamTools：流量解密工具**
 2. **BurpSuite：2022.1.1** 
- - **汉化插件（https://github.com/funkyoummp/burpsuitecn）**
+ - **汉化插件：https://github.com/funkyoummp/burpsuitecn**
  - **集成插件：**
  - **VulnersScanner**
  - **ChangeU**
@@ -720,9 +697,9 @@
 9. **OpenVPN：vpn工具**
 10. **phpStudy: 8.1集成环境**
 11. **Proxifier: 流量代理工具（汉化版）**
-12. **ShadowSocks: 科学上网工具（https://github.com/shadowsocks/shadowsocks-windows）**
+12. **ShadowSocks: 科学上网工具 https://github.com/shadowsocks/shadowsocks-windows**
 13. **TorBowser: 洋葱浏览器**
-14. **v2ray：科学上网工具（https://github.com/2dust/v2rayN）**
+14. **v2ray：科学上网工具 https://github.com/2dust/v2rayN**
 15. **WireShark: 流量抓包分析工具**
 16. **Yakit：https://github.com/yaklang/yakit**
 
@@ -751,6 +728,7 @@
  - **提取码：fvp3**
 
 # 下载链接：
+> **小水管上传中**
 
 # 参考截图：
 ![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/%E6%88%AA%E5%9B%BE/desktop.png)
