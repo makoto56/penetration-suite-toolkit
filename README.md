@@ -649,7 +649,7 @@
 2. **Behinder: 冰蝎（shell密码统一为rebeyond）https://github.com/rebeyond/Behinder**
  - **behinder 3.0 beta11**
  - **behinder 4.0.6**
-3. **cobaltstrike: Dog 4.4 汉化版https://github.com/TryGOTry/DogCs4.4**
+3. **Cobaltstrike: Dog 4.4 汉化版https://github.com/TryGOTry/DogCs4.4**
  - **使用csagent汉化 https://github.com/Twi1ight/CSAgent**
  - **vps启动teamserver：sudo ./teamserver your_ip your_password random.profile**
  - **集成插件（C:\Penetration\ShellTools\CobaltStrike\Scripts）**
