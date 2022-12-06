@@ -1,5 +1,5 @@
 # **Windows10 Penetration Suite Toolkit within Kali Linux**
-![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg)  ![image](https://img.shields.io/badge/Release-v3.0-blue.svg)  ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg) ![image](https://img.shields.io/badge/Update-2022.04.05-ff69b4.svg)
+![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg) ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg) 
 
 # **2022.12.05 更新说明：**
 
@@ -229,20 +229,20 @@
 3. **DatabaseUtilizationTools：数据库利用工具**
 4. **HeidiSQL：数据库连接管理工具**
 5. **Microsoft SQL Server：2019专业版**
-6. **username：sa**
-7. **password：sqladmin**
-8. **Microsoft SQL Server Management：mssql连接工具**
-9. **Navicat: 数据库连接管理工具**
-10. **Neo4j：neo4j数据库管理工具**
-11. **OracleShell：oracle利用工具**
-12. **RedisDesktopManager：redis管理工具**
-13. **SharpSqlTools：mssql数据库利用工具**
-14. **Sqlite：sqlite数据库管理工具**
-15. **Sqlknife：mssql数据库利用工具**
-16. **Sqlmap: 注入工具**
-17. **SQLTools：mssql利用工具**
-18. **Sylas：mssql & orcle & postgresql数据库利用工具**
-19. **ToadOracle：oracle数据库管理工具**
+ - **username：sa**
+ - **password：sqladmin**
+6. **Microsoft SQL Server Management：mssql连接工具**
+7. **Navicat: 数据库连接管理工具**
+8. **Neo4j：neo4j数据库管理工具**
+9. **OracleShell：oracle利用工具**
+10. **RedisDesktopManager：redis管理工具**
+11. **SharpSqlTools：mssql数据库利用工具**
+12. **Sqlite：sqlite数据库管理工具**
+13. **Sqlknife：mssql数据库利用工具**
+14. **Sqlmap: 注入工具**
+15. **SQLTools：mssql利用工具**
+16. **Sylas：mssql & orcle & postgresql数据库利用工具**
+17. **ToadOracle：oracle数据库管理工具**
 
 ### **[+] 夺旗工具（CTF）：**
 
