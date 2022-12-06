@@ -1,7 +1,7 @@
 # **Windows10 Penetration Suite Toolkit within Kali Linux v4.0**
 ![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg) ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg) ![image](https://img.shields.io/badge/Version-4.0-yellow.svg) ![image](https://img.shields.io/badge/Update-2022.12.06-blue.svg)
 
-# **2022.12.05 更新说明：**
+# **2022.12.06 更新说明：**
 
 1. **由于Kali的图形化模式占用资源造成卡顿，且使用率不高，~~特此去除图形化模式~~。**
 > **如有需要可参照https://blog.csdn.net/weixin_44285782/article/details/107442217；**
