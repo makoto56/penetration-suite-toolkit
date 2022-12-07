@@ -194,7 +194,7 @@
 5. **Putty**
 6. **Teamviewer**
 7. **WinSCP**
-8. **Xmanager**
+8. **~~Xmanager（未取得授权，请于下载后删除）~~**
 
 ### **[+] 破解工具：**
 
