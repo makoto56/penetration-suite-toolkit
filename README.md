@@ -731,7 +731,7 @@
  - **提取码：fvp3**
 
 # 下载链接：
-> **小水管上传中**
+> **https://github.com/makoto56/penetration-suite-toolkit/releases/tag/v4.0**
 
 # 参考截图：
 ![image](https://raw.githubusercontent.com/makoto56/penetration-suite-toolkit/main/%E6%88%AA%E5%9B%BE/desktop.png)
