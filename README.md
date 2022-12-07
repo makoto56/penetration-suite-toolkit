@@ -607,7 +607,7 @@
 1. **Acunetix: 15.1.221109177（注册版）**
  - **username: admin@awvs.com**
  - **password: Admin@awvs.com**
-2. **~~AppScan：10.0.7（注册版），未取得授权，请于下载后自行删除~~**
+2. **~~AppScan：10.0.7（注册版）（未取得授权，请于下载后删除）~~**
 3. **Goby：2.0.5红队专版（含1288 poc）**
 4. **Nessus：10.3.1（注册版）**
  - **username: admin**
