@@ -726,10 +726,6 @@
 **可供测试软件，环境搭建等用途。**
 **虚拟机账号密码已备注在VMware描述栏处，请注意查看。**
 
- - **下载链接：**
- - **链接：https://pan.xunlei.com/s/VN2xlbB9pxTo0bWdgdg5vXUtA1**
- - **提取码：fvp3**
-
 # 下载链接：
 > **https://github.com/makoto56/penetration-suite-toolkit/releases/tag/v4.0**
 
