@@ -4,7 +4,7 @@
 # **2022.12.06 更新说明:**
 
 1. **由于Kali的图形化模式占用资源造成卡顿，且使用率不高，~~特此去除图形化模式~~。**
-> **[参考链接](https://blog.csdn.net/weixin_44285782/article/details/107442217) **
+> **[参考链接](https://blog.csdn.net/weixin_44285782/article/details/107442217)**
 2. **VMware Workstation 不可恢复错误（vcpu-0）解决方法:**
  - **升级VMware至17.0[最新版](https://www.ghxi.com/vmware17.html)**
  - **虚拟机设置-处理器-虚拟化引擎，关闭“虚拟化Intel VT-x/EPT 或 AMD-V/RVI(V)”**
