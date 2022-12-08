@@ -153,7 +153,7 @@
 1. **AndroidHelper:apk逆向工具**
 2. **AndroidKiller:apk综合工具**
 3. **[Apkinfo](https://github.com/bihe0832/Android-GetAPKInfo):apk分析工具**
-4. **[Apktool](https://github.com/iBotPeaches/Apktool):apk反编译工具 **
+4. **[Apktool](https://github.com/iBotPeaches/Apktool):apk反编译工具**
 5. **ApkToolbox:apk综合工具**
 6. **[ApkToolPlus](https://github.com/linchaolong/ApkToolPlus):apk反编译分析工具**
 7. **[AppMessenger](https://github.com/sulab999/AppMessenger):apk分析工具**
