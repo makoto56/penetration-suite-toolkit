@@ -7,9 +7,9 @@
 > **[参考链接](https://blog.csdn.net/weixin_44285782/article/details/107442217)**
 2. **VMware Workstation 不可恢复错误（vcpu-0）解决方法:**
  - **升级VMware至17.0[最新版](https://www.ghxi.com/vmware17.html)**
- - **虚拟机设置-处理器-虚拟化引擎，关闭“虚拟化Intel VT-x/EPT 或 AMD-V/RVI(V)”**
- - **虚拟机设置-显示器-3D图形，关闭“加速3D图形”**
- - **开启物理机bios设置的CPU虚拟化**
+ - **物理机bios-CPU虚拟化，选择开启**
+ - **物理机控制面板-程序和功能-启用或关闭windows功能-虚拟机平台，选择关闭**
+ - **虚拟机设置-处理器-虚拟化引擎，选择关闭关闭“虚拟化Intel VT-x/EPT 或 AMD-V/RVI(V)”**
 > **[参考链接](https://blog.csdn.net/weixin_43978472/article/details/123347650)**
 3. **补充了大量实用工具，升级部分软件为最新版；**
 4. **重构了“漏洞工具” 的目录分类，查找更方便快捷；**
