@@ -64,7 +64,9 @@
 
 ## **WindowsApp类:**
 
-1. **WSL Kali Linux**
+1. **WSL Kali Linux（WSL 1.0）**
+> **WSL 2.0需要开启“虚拟机平台”功能，会造成冲突致使Android虚拟机无法使用**
+> **WSL 1.0不具备完整的Linux内核，有部分软件或命令无法使用。**
 2. **Windows Terminal（已替换默认cmd）**
 
 ## **其他工具类 （C:\Softwares）:**
