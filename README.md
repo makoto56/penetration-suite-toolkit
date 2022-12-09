@@ -479,7 +479,7 @@
 67. **Zoho**
 68. **Zyxel**
 > **漏洞库综合了下列项目:**
- - **[CMSHunter](https://github.com/SecWiki/CMS-Hunter)**
+ - **[CMS-Hunter](https://github.com/SecWiki/CMS-Hunter)**
  - **[expHub](https://github.com/zhzyker/exphub)**
  - **[Middleware-Vulnerability-Detection](https://github.com/mai-lang-chai/middleware-vulnerability-detection)**
  - **[System-Vulnerability](https://github.com/mai-lang-chai/system-vulnerability)**
