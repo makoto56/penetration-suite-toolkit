@@ -66,8 +66,8 @@
 
 1. **WSL Kali Linux（WSL 1.0）**
  - **WSL 1.0不具备完整的Linux内核，有部分软件或命令无法使用。**
- - **WSL 2.0需要开启Windows“虚拟机平台”功能，会造成冲突致使Android虚拟机无法使用。**
- - **可视具体情况决定使用，WSL版本转换及图形化实现方法如下：**
+ - **WSL 2.0具备完整的Linux内核，但需要开启Windows“虚拟机平台”功能，会造成冲突致使Android虚拟机无法使用。**
+ - **可视具体情况决定，WSL版本转换及图形化实现方法如下：**
  - **[参考连接1](https://blog.csdn.net/sy95122/article/details/125003315)**
  - **[参考连接2](https://blog.csdn.net/l1447320229/article/details/108210760)**
 2. **Windows Terminal（已替换默认cmd）**
