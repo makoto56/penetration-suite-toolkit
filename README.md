@@ -101,7 +101,7 @@
 
 ### **[+] 审计工具 (C:\Penetration\AuditTools):**
 
-1. **Fortify: 代码审计工具**
+1. **Fortify: 代码审计工具(注册版)**
 2. **Seay: PHP代码审计工具**
 3. **SeayDzend: PHP代码审计工具**
 
@@ -165,7 +165,7 @@
 12. **[CTFCrackTools](https://github.com/0Chencc/CTFCrackTools): CTF 工具框架**
 13. **CTFEditor: 编码转换工具**
 14. **[CTFTools](https://github.com/qianxiao996/CTF-Tools/): 密码学工具**
-15. **[CyberChef](https://github.com/gchq/CyberChef): 编码转换工具 **
+15. **[CyberChef](https://github.com/gchq/CyberChef): 编码转换工具**
 16. **DesTool: DES 加解密工具**
 17. **[F5-Steganography](https://github.com/matthewgao/F5-steganography): 隐写工具**
 18. **FindFlag: Flag 查找工具**
