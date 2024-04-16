@@ -838,8 +838,8 @@
 
 ### **[+] 流量工具 (C:\Penetration\TrafficTools):**
 
-1. **BlueTeamTools:流量解密工具**
-2. **BurpSuite:2024.2.1** 
+1. **BlueTeamTools: 流量解密工具**
+2. **BurpSuite: 2024.2.1(注册版)** 
  - **[汉化插件](https://github.com/funkyoummp/burpsuitecn)**
  - **集成插件:**
  - **[BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan)**
