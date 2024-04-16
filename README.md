@@ -48,7 +48,7 @@
 
 ## **渗透测试:**
 
-   **常用的Python、C#、Java等工具均配有 start.bat 或 start.vbs 快捷启动方式**
+ **常用的Python、C#、Java等工具均配有 start.bat 或 start.vbs 快捷启动方式**
 
 ### **[+] 人工智能 (C:\Penetration\AiTools) :**
 
@@ -101,7 +101,7 @@
 
 ### **[+] 审计工具 (C:\Penetration\AuditTools):**
 
-1. **Fortify: 代码审计工具(注册版)**
+1. **Fortify: 23.2(注册版)**
 2. **Seay: PHP代码审计工具**
 3. **SeayDzend: PHP代码审计工具**
 
