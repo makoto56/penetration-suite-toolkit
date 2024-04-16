@@ -272,7 +272,7 @@
 8. **[myBase](https://www.ghxi.com/mybase.html): 个人数据库编辑工具(注册版)**
 9. **[Notepad++](https://notepad-plus-plus.org/downloads/): 编辑工具**
 10. **PSTConverter: Outlook PST 邮件转换工具**
-11. **[SharpSword](https://github.com/OG-Sadpanda/SharpSword): C#版本Word查看工具**
+11. **[SharpSword](https://github.com/OG-Sadpanda/SharpSword): Word 命令行查看工具**
 12. **[Sublime](https://www.ghxi.com/sublimetext4.html): 编辑工具(注册版)**
 13. **[Typora](https://www.ghxi.com/typora.html): MarkDown 编辑工具(注册版)**
 14. **[UltraEdit](https://www.ghxi.com/ultraedit.html): 编辑工具**
@@ -431,7 +431,7 @@
  - **[Poc2jar](https://github.com/f0ng/poc2jar): 综合漏洞利用工具**
  - **[R-Knife](https://github.com/qianxiao996/R-Knife): 综合漏洞利用工具**
  - **SearchSploit: (Kali)**
- - **[SuperXray](https://github.com/4ra1n/super-xray): Xray 图形化版本****
+ - **[SuperXray](https://github.com/4ra1n/super-xray): Xray 图形化版本**
  - **[Unauthorized](https://github.com/xk11z/unauthorized): 未授权漏洞检测工具**
  - **[Windows Exploit Suggester - NG](https://github.com/bitsadmin/wesng): Windows提权工具**
  - **[Windows Exploit Suggester](https://github.com/0xToast/Windows-Exploit-Suggester-Py-3): Windows提权工具**
