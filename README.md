@@ -839,9 +839,9 @@
 ### **[+] 流量工具 (C:\Penetration\TrafficTools):**
 
 1. **BlueTeamTools: 流量解密工具**
-2. **BurpSuite: 2024.2.1(注册版)** 
- - **[汉化插件](https://github.com/funkyoummp/burpsuitecn)**
+2. **BurpSuite: 2024.2.1(注册版)**
  - **集成插件:**
+ - **[汉化](https://github.com/funkyoummp/burpsuitecn)**
  - **[BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan)**
  - **[BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder)**
  - **[BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan)**
@@ -860,7 +860,7 @@
 3. **[FiddlerDebugger](https://ghxi.com/fiddler.html): 流量抓包工具(汉化版)**
 4. **[FiddlerEverywhere](https://github.com/msojocs/fiddler-everywhere-enhance): 流量抓包工具(注册版)**
 5. **Firefox:firefox 49.0 集成插件版**
-6. **ftpServers: ftp开启工具**
+6. **ftpServers: FTP 开启工具**
 7. **[LiqunShield](https://github.com/Liqunkit/LiqunShield): Webshell流量分析工具**
 8. **[Netcat](https://netcat.sourceforge.net/): NC**
 9. **[NetSetMan](https://ghxi.com/netsetman.html): 网络参数设置工具**
