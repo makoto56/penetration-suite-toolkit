@@ -899,6 +899,6 @@
 <font color=green>**虚拟机账号密码已备注在 VMware 描述栏处，请注意查看。**</font>
 
 # <font color=blue>**下载链接:**</font>
- - **测试后上传**
+ - **[v5.0](https://github.com/makoto56/penetration-suite-toolkit/releases/tag/v5.0)**
 
 # <font color=blue>**参考截图:**</font>
