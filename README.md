@@ -1,24 +1,29 @@
-# **Windows10 Penetration Suite Toolkit within Kali Linux v5.0**
+# <font color=red>**Windows10 Penetration Suite Toolkit within Kali Linux v5.0**</font>
 ![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg) ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg)
 
-# **2024.4.16 更新说明:**
+# <font color=blue>**2024.4.16 更新说明:**</font>
 
 1. **安卓、CTF、逆向、AI、取证、数据库等分类补充了部分实用工具；**
 2. **去除部分长期未更新、使用效果不佳及功能重复的工具；**
 3. **优化扫描器、数据库等部分工具系统资源占用过大问题；**
 4. **重构工具快捷方式，注明详细使用参数及方法，图标美化；**
-5. **系统组件及工具常规升级更新。**
+5. **系统、组件及工具常规升级更新。**
 
-# **系统简介:**
+# <font color=blue>**系统简介:**</font>
 
-1. **基于 Windows10 Workstation 22H2 x64 原版镜像制作(不适用于ARM设备)；**
+1. **基于 Windows10 Workstation 22H2 x64 原版镜像制作<font color=red>(不适用于ARM设备)</font>；**
 2. **完整安装 WSL2 Kali Linux 2024.1；**
+ - <font color=Red>**注: 物理主机必须支持 CPU 虚拟化功能，否则 WSL2 无法使用！**</font>
+ - <font color=green>**开启 VMware - 虚拟机设置 - 处理器 - 虚拟化引擎:**</font>
+ - <font color=green>**虚拟化 Intel VT-x/EPT 或 AMD-V/RVI**</font>
+ - <font color=green>**虚拟化 CPU 性能计数器**</font>
+ - <font color=green>**虚拟化 IOMMU(IO 内存管理单元)**</font>
 3. **精简系统自带软件，美化字体及部分图标，适度优化；**
  - **推荐运行环境:**
  - **VMware: 16.x(建议视情分配图形内存)**
  - **运行内存: 8G**
  - **固态硬盘: 300G**
-# **制作声明:**
+# <font color=blue>**制作声明:**</font>
 
 1. **所有的安装类软件均下载自对应的官方网站；**
 2. **所有的绿色类软件均下载自[果核剥壳](https://www.ghxi.com) ；**
@@ -32,14 +37,14 @@
 8. **本项目坚决不接受也从未曾接受任何形式的赞助；**
 9. **如果您有好的意见或者建议，请联系邮箱 burpsuite@qq.com。**
 
-# **免责声明:**
+# <font color=blue>**免责声明:**</font>
 
 1. **本镜像仅面向合法授权的企业安全建设行为，如您需要测试本镜像的可用性，请自行搭建靶机环境；**
 2. **在使用本镜像进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权；**
 3. **如您在使用本镜像的过程中存在任何非法行为，您需自行承担相应后果，作者将不承担任何法律及连带责任；**
 4. **本镜像所使用的工具资源均来自于网友投稿及互联网整理，作者仅提供分享交流平台，不为其版权负责。如果您发现本镜像中有侵犯您(或贵司)知识产权的资源，请及时反馈，作者会第一时间进行修改或删除。**
 
-# **软件及工具介绍:**
+# <font color=blue>**软件及工具介绍:**</font>
 
 ## **Windows App:**
 1. **WSL2 Kali Linux 2024.1**
@@ -50,13 +55,13 @@
 
  **常用的Python、C#、Java等工具均配有 start.bat 或 start.vbs 快捷启动方式**
 
-### **[+] 人工智能 (C:\Penetration\AiTools) :**
+### <font color=orange>**[+] 人工智能 (C:\Penetration\AiTools) :**</font>
 
 1. **[阿水Ai](https://ai.ashuiai.com/home): Ai资源聚合**
 2. **[ChatGPT](https://chat.openai.com/)**
 3. **[HackerGPT](https://chat.hackerai.co/zh)**
 
-### **[+] 安卓工具 (C:\Penetration\AndroidTools):**
+### <font color=orange>**[+] 安卓工具 (C:\Penetration\AndroidTools):**</font>
 
 1. **[AdbDriver](https://adb.clockworkmod.com): ADB 驱动**
 2. **AndroidHelper: APK 逆向工具**
@@ -86,7 +91,7 @@
 17. **SuperJadx: 反编译工具**
 18. **[Yaazhini](https://www.vegabird.com/yaazhini/): APK 漏洞扫描工具**
 
-### **[+] 免杀工具 (C:\Penetration\AntivirusTools):**
+### <font color=orange>**[+] 免杀工具 (C:\Penetration\AntivirusTools):**</font>
 
 1. **[AVevasion](https://github.com/1y0n/av_evasion_tool)**
 2. **[AvEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline)**
@@ -96,16 +101,16 @@
 6. **[LoaderFly](https://github.com/wangfly-me/LoaderFly)**
 7. **[Powershell-Obfuscation](https://github.com/H4de5-7/powershell-obfuscation)**
 8. **[Sandboxie](https://sandboxie-plus.com/): 沙盒工具**
-9. **[VMProtect](http://www.dayanzai.me/vmprotect.html): 加壳工具(注册版)**
+9. **[VMProtect](http://www.dayanzai.me/vmprotect.html): 3.8.4(注册版)**
 10. **[VProtect](https://ghxi.com/vprotect.html): 加壳工具**
 
-### **[+] 审计工具 (C:\Penetration\AuditTools):**
+### <font color=orange>**[+] 审计工具 (C:\Penetration\AuditTools):**</font>
 
 1. **Fortify: 23.2(注册版)**
-2. **Seay: PHP代码审计工具**
-3. **SeayDzend: PHP代码审计工具**
+2. **Seay: PHP 代码审计工具**
+3. **SeayDzend: PHP 代码审计工具**
 
-### **[+] 连接工具 (C:\Penetration\ConnectTools):**
+### <font color=orange>**[+] 连接工具 (C:\Penetration\ConnectTools):**</font>
 
 1. **[1Remote](https://github.com/1Remote/1Remote)**
 2. **[Anydesk](https://www.ghxi.com/anydesk.html)**
@@ -119,7 +124,7 @@
 10. **[Xftp](https://www.netsarang.com/en/free-for-home-school/)(教育版)**
 11. **[Xshell](https://www.netsarang.com/en/free-for-home-school/)(教育版)**
 
-### **[+] 破解工具 (C:\Penetration\CrackTools):**
+### <font color=orange>**[+] 破解工具 (C:\Penetration\CrackTools):**</font>
 
 1. **AccessCrack: MDB 密码破解工具**
 2. **Advanced Archive Password Recovery: 压缩包密码破解工具**
@@ -149,7 +154,7 @@
 12. **[SNETCracker](https://github.com/shack2/SNETCracker): 超级弱口令检测工具**
 13. **WebshellCrack: 一句话木马密码破解工具**
 
-### **[+] 夺旗工具 (C:\Penetration\CTFTools):**
+### <font color=orange>**[+] 夺旗工具 (C:\Penetration\CTFTools):**</font>
 
 1. **ASCII: ASCII码转换工具**
 2. **Audacity: 音频工具**
@@ -202,25 +207,25 @@
 49. **Xiaokui: 小葵编码工具**
 50. **ZZYQR: 二维码解析工具**
 
-### **[+] 数据库工具 (C:\Penetration\DatabaseTools):**
+### <font color=orange>**[+] 数据库工具 (C:\Penetration\DatabaseTools):**</font>
 
 1. **Access Database Browser: MDB数据库查看工具**
 2. **[Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis 客户端**
-3. **[DatabaseTools](https://github.com/Hel10-Web/Databasetools): 数据库提权工具**
-4. **[HeidiSQL](https://www.ghxi.com/heidisql.html): 轻量级数据库客户端**
+3. **[DatabaseTools](https://github.com/Hel10-Web/Databasetools): 数据库综合利用工具**
+4. **[HeidiSQL](https://www.ghxi.com/heidisql.html): 数据库管理工具**
 5. **[MariaDB](https://mariadb.org/): Mysql 数据库**
- - **username: root**
- - **password: sqladmin**
- - **如需使用请先运行开启服务快捷方式**
+ - <font color=green>**username: root**</font>
+ - <font color=green>**password: sqladmin**</font>
+ - <font color=green>**如需使用请先运行开启服务快捷方式**</font>
 6. **[MultipleDatabaseUtilizationTools](https://github.com/SafeGroceryStore/MDUT): 数据库综合利用工具**
 7. **[Navicat](https://github.com/LiJunYi2/navicat-keygen-16V): 数据库管理工具(注册版)**
 8. **[Neo4j](https://neo4j.com/)**
- - **username: root**
- - **password: sqladmin**
+ - <font color=green>**username: root**</font>
+ - <font color=green>**password: sqladmin**</font>
 9. **[Oracle 19c](https://www.oracle.com/cn/database/technologies/oracle19c-windows-downloads.html)**
- - **username: system**
- - **password: sqladmin**
- - **如需使用请先运行开启服务快捷方式**
+ - <font color=green>**username: system**</font>
+ - <font color=green>**password: sqladmin**</font>
+ - <font color=green>**如需使用请先运行开启服务快捷方式**</font>
 10. **[OracleShell](https://github.com/jas502n/oracleShell): Oracle 数据库利用工具**
 11. **[OSSBrowser](https://github.com/aliyun/oss-browser): 数据库管理工具**
 12. **PostgreUtil: Postgresql 数据库利用工具**
@@ -231,9 +236,9 @@
 17. **[Sqlmap](https://github.com/sqlmapproject/sqlmap): 数据库利用工具**
 18. **[SqlmapXPlus](https://github.com/co01cat/SqlmapXPlus): Sqlmap 二开版**
 19. **[sqlServer 2019](https://www.microsoft.com/zh-cn/evalcenter/download-sql-server-2019): sqlServer 2019 专业版**
- - **username: sa**
- - **password: sqladmin**
- - **如需使用请先运行开启服务快捷方式**
+ - <font color=green>**username: sa**</font>
+ - <font color=green>**password: sqladmin**</font>
+ - <font color=green>**如需使用请先运行开启服务快捷方式**</font>
 20. **[sqlServer Management Studio 18](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms): sqlServer 管理工具**
 21. **[sqlTools](https://github.com/uknowsec/SharpSQLTools): sqlServer 利用工具**
 22. **[ssqlinjection](https://github.com/shack2/SuperSQLInjectionV1): 超级注入工具**
@@ -241,7 +246,7 @@
 24. **[TinyRDM](https://github.com/tiny-craft/tiny-rdm/releases/tag/v1.1.10): Redis 客户端**
 25. **[ToadOracle](https://www.quest.com/products/toad-for-oracle/): Oracle 客户端**
 
-### **[+] 字典工具 (C:\Penetration\DictionaryTools):**
+### <font color=orange>**[+] 字典工具 (C:\Penetration\DictionaryTools):**</font>
 
 1. **DictMaker: 字典生成工具**
  - **[DictTools](https://github.com/abc123info/UserNameDictTools)**
@@ -254,18 +259,18 @@
  - **易优字典生成工具**
 2. **[Pentestdicts](https://github.com/ppbibo/pentesterspecialdict)**
 
-### **[+] 磁盘工具 (C:\Penetration\DiskTools):**
+### <font color=orange>**[+] 磁盘工具 (C:\Penetration\DiskTools):**</font>
 
 1. **[DiskDrill](https://www.cleverfiles.com/): 数据恢复工具(注册版)**
 2. **DiskGenius(注册版)**
 3. **[SSDFresh](https://www.abelssoft.de/en/windows/system-utilities/ssd-fresh): 磁盘整理工具**
 
-### **[+] 编辑工具 (C:\Penetration\EditTools):**
+### <font color=orange>**[+] 编辑工具 (C:\Penetration\EditTools):**</font>
 
 1. **[010Editor](https://www.ghxi.com/010editor.html): 十六进制编辑工具(注册版)**
 2. **[AnyTXT](https://www.ghxi.com/anytxtsearcher.html): 文本搜索工具**
 3. **BeyondCompare: 文件对比工具**
-4. **[eSearch](https://www.ghxi.com/esearch.html): 截屏、录屏、OCR、搜索、翻译、贴图、以图搜图(已集成离线OCR库)**
+4. **[eSearch](https://www.ghxi.com/esearch.html): 截屏、录屏、OCR、搜索、翻译、贴图、搜图(已集成离线OCR库)**
 5. **[FFRename](https://www.ghxi.com/ffrename.html): 菲菲更名宝贝(注册版)**
 6. **FindStr: 文本搜索工具**
 7. **[JsonViewer](https://dadroit.com/download/): Json查看编辑工具**
@@ -276,10 +281,10 @@
 12. **[Sublime](https://www.ghxi.com/sublimetext4.html): 编辑工具(注册版)**
 13. **[Typora](https://www.ghxi.com/typora.html): MarkDown 编辑工具(注册版)**
 14. **[UltraEdit](https://www.ghxi.com/ultraedit.html): 编辑工具**
-15. **[VisualStudio Code](https://code.visualstudio.com/download): 编辑工具**
+15. **[VisualStudio Code](https://code.visualstudio.com/download)**
 16. **XMind: 思维导图工具**
 
-### **[+] 漏洞工具 (C:\Penetration\ExploitTools):**
+### <font color=orange>**[+] 漏洞工具 (C:\Penetration\ExploitTools):**</font>
 
 1. **Airflow**
 2. **Apache**
@@ -433,8 +438,8 @@
  - **SearchSploit: (Kali)**
  - **[SuperXray](https://github.com/4ra1n/super-xray): Xray 图形化版本**
  - **[Unauthorized](https://github.com/xk11z/unauthorized): 未授权漏洞检测工具**
- - **[Windows Exploit Suggester - NG](https://github.com/bitsadmin/wesng): Windows提权工具**
- - **[Windows Exploit Suggester](https://github.com/0xToast/Windows-Exploit-Suggester-Py-3): Windows提权工具**
+ - **[Windows Exploit Suggester - NG](https://github.com/bitsadmin/wesng): Windows 提权工具**
+ - **[Windows Exploit Suggester](https://github.com/0xToast/Windows-Exploit-Suggester-Py-3): Windows 提权工具**
  - **Wiki: 零组文档库 & 漏洞文档库**
  - **[Xray](https://github.com/chaitin/xray): 漏洞扫描利用工具**
  - **[Ysoserial](https://github.com/frohoff/ysoserial): Java 反序列化利用工具**
@@ -467,15 +472,15 @@
 122. **Zabbix**
 123. **Zoho**
 124. **Zyxel**
-> **漏洞库综合了下列项目:**
+> <font color=green>**漏洞库综合了下列项目:**</font>
  - **[CMS-Hunter](https://github.com/SecWiki/CMS-Hunter)**
  - **[expHub](https://github.com/zhzyker/exphub)**
  - **[Middleware-Vulnerability-Detection](https://github.com/mai-lang-chai/middleware-vulnerability-detection)**
  - **[System-Vulnerability](https://github.com/mai-lang-chai/system-vulnerability)**
  - **[Vulnerability](https://github.com/edgesecurityteam/vulnerability)**
-> **更多漏洞 EXP & POC 请善用 Everything 搜索**
+> <font color=green>**更多漏洞 EXP & POC 请善用 Everything 搜索**</font>
 
-### **[+] 取证工具 (C:\Penetration\ForensicsTools):**
+### <font color=orange>**[+] 取证工具 (C:\Penetration\ForensicsTools):**</font>
 
 1. **[AlternateStreamView](https://www.nirsoft.net/utils/alternate_data_streams.html): NTFS 数据流工具**
 2. **[AutoSpy](https://www.autopsy.com/)**
@@ -504,7 +509,7 @@
 21. **[WindowsLogsAnalysis](https://github.com/dogadmin/windodws-logs-analysis): 日志分析工具**
 22. **[WinPmem](https://github.com/Velocidex/WinPmem): Windows 内存取证工具**
 
-### **[+] 内网工具 (C:\Penetration\IntranetTools):**
+### <font color=orange>**[+] 内网工具 (C:\Penetration\IntranetTools):**</font>
 
 1. **[3Gstudent](https://github.com/3gstudent): 三好学生脚本**
 2. **AddUser:添加用户工具**
@@ -523,7 +528,7 @@
 15. **[Frp](https://github.com/fatedier/frp): 内网穿透工具**
 16. **[FScan](https://github.com/shadow1ng/fscan): 内网扫描工具**
 17. **[Gorailgun](https://github.com/lz520520/railgun): 内网渗透综合利用工具**
- - **password: 三个空格**
+ - <font color=green>**password: 三个空格**</font>
 18. **[GoToHTTP](https://gotohttp.com/): 远控工具**
 19. **[Hoaxshell](https://github.com/t3l3machus/hoaxshell): 远控工具**
 20. **[imPacket](https://github.com/SecureAuthCorp/impacket): 内网协议工具**
@@ -535,7 +540,7 @@
 23. **[LdapAdmin](http://www.ldapadmin.org/): LDAP 工具**
 24. **[LDAPDomainDump](https://github.com/dirkjanm/ldapdomaindump): LDAP 工具**
 25. **Mimikatz:密码抓取工具**
- - **文件夹下集成下列密码抓取工具**
+ - <font color=green>**文件夹下集成下列密码抓取工具**</font>
  - **[CallBackDump](https://github.com/seventeenman/CallBackDump)**
  - **[DumpHash](https://github.com/Avienma/DumpHash)**
  - **[GoSecretsDump](https://github.com/C-Sto/gosecretsdump)**
@@ -586,7 +591,7 @@
 50. **[WMIHacker](https://github.com/rootclay/WMIHACKER): WMI 渗透工具**
 51. **[Yasso](https://github.com/sairson/Yasso): 内网漏扫利用工具**
 
-### **[+] 影音图像 (C:\Penetration\MediaTools):**
+### <font color=orange>**[+] 影音图像 (C:\Penetration\MediaTools):**</font>
 
 1. **Acrobat DC: PDF 编辑工具**
 2. **Adobe Photoshop 2022**
@@ -599,10 +604,10 @@
 9. **[PotPlayer](https://ghxi.com/potplayer.html): 播放器**
 10. **[Snipaste](https://ghxi.com/snipaste.html): 截图工具**
 
-### **[+] 网络工具 (C:\Penetration\NetworkTools):**
+### <font color=orange>**[+] 网络工具 (C:\Penetration\NetworkTools):**</font>
 
 1. **[Chrome](https://ghxi.com/chrome.html): 122.0.6261.95 绿色修改版**
- - **主要集成插件:**
+ - <font color=green>**主要集成插件:**</font>
  - **Adblock: 广告拦截工具**
  - **Charset: 修改网页编码工具**
  - **Chrome清理大师: chrome清理工具**
@@ -643,12 +648,12 @@
 2. **[FDM](https://www.freedownloadmanager.org/): 下载工具**
 3. **[Telegram](https://telegram.org/)**
 
-### **[+] 办公工具 (C:\Penetration\OfficeTools):**
+### <font color=orange>**[+] 办公工具 (C:\Penetration\OfficeTools):**</font>
 
 1. **Office: Word + Excel + Powerpoint + Access + Onenote + Outlook**
 2. **[WPS](https://ghxi.com/wps2019pro.html): 11.8.2.12195 专业增强版**
 
-### **[+] 编程工具 (C:\Penetration\ProgramTools):**
+### <font color=orange>**[+] 编程工具 (C:\Penetration\ProgramTools):**</font>
 
 1. **[Go](https://go.dev/)**
 2. **Java:**
@@ -670,12 +675,12 @@
 5. **[Python](https://www.python.org/):**
  - **python2: python2命令启动(python2 test.py)**
  - **python3: python3命令启动(python3 test.py)**
- - **已集成本镜像所有工具的 pip 依赖库(如有遗漏未安装的库请自行安装)**
+ - **已集成本镜像所有工具的 pip 依赖库**<font color=green>**(如有遗漏未安装的库请自行安装)**</font>
  - **使用 pip 命令调用 python3 pip**
 6. **[TDM-GCC](https://jmeubank.github.io/tdm-gcc/)**
 7. **VisualStudio 2022: 社区版**
 
-### **[+] 逆向工具 (C:\Penetration\ReverseTools):**
+### <font color=orange>**[+] 逆向工具 (C:\Penetration\ReverseTools):**</font>
 
 1. **[bat2exe](https://bat2exe.net/): BAT 转 EXE 工具**
 2. **[DetectItEasy](https://ghxi.com/die.html): 查壳工具**
@@ -695,16 +700,16 @@
 14. **[vbs2exe](https://github.com/eimon96/vbs2exe): VBS 转 EXE 工具**
 15. **[x64Debug](https://ghxi.com/x64_dbg.html): EXE 调试工具**
 
-### **[+] 扫描工具 (C:\Penetration\ScanTools):**
+### <font color=orange>**[+] 扫描工具 (C:\Penetration\ScanTools):**</font>
 
 1. **Acunetix: 24.2.240226074(注册版)**
- - **username: admin@awvs.com**
- - **password: Admin@awvs.com**
+ - <font color=green>**username: admin@awvs.com**</font>
+ - <font color=green>**password: Admin@awvs.com**</font>
 2. **AppScan: 10.4.0(注册版)**
 3. **[EasySpider](https://www.easyspider.net/): 爬虫工具**
 4. **Nessus: 10.7.1(注册版)**
- - **username: admin**
- - **password: password**
+ - <font color=green>**username: admin**</font>
+ - <font color=green>**password: password**</font>
 5. **Invicti Netsparker: 24.3(注册版)**
 5. **[Nmap](https://nmap.org/)**
 6. **RouterScan: C段扫描工具**
@@ -750,7 +755,7 @@
  - **[Sublist3r](https://github.com/aboul3la/Sublist3r)**
  - **[WebBatchRequest](https://github.com/ScriptKid-Beta/WebBatchRequest)**
 
-### **[+] 权限工具 (C:\Penetration\ShellTools):**
+### <font color=orange>**[+] 权限工具 (C:\Penetration\ShellTools):**</font>
 
 1. **[Antsword](https://github.com/AntSwordProject/AntSword-Loader): 蚁剑(已集成插件)**
 2. **[Behinder](https://github.com/rebeyond/Behinder): 冰蝎**
@@ -759,7 +764,7 @@
 3. **[ByPassBehinder](https://github.com/czz1233/GBByPass): JSP 免杀工具**
 4. **[Cobaltstrike](https://github.com/TryGOTry/CobaltStrike_Cat_4.5): 猫猫二开**
  - **使用[CSAgent](https://github.com/Twi1ight/CSAgent)汉化**
- - **集成插件 (C:\Penetration\ShellTools\CobaltStrike\Scripts)**
+ - <font color=green>**集成插件 (C:\Penetration\ShellTools\CobaltStrike\Scripts)**</font>
  - **[ADCollection](https://github.com/lengjibo/RedTeamTools)**
  - **[bypassav](https://github.com/hack2fun/BypassAV)**
  - **[BypassUserAdd](https://github.com/crisprss/BypassUserAdd)**
@@ -776,11 +781,10 @@
 5. **[DNSCat2](https://github.com/iagox86/dnscat2)**
 6. **[GBBypass](https://github.com/czz1233/GBByPass): 冰蝎 & 哥斯拉 Webshell 免杀**
 7. **[Godzilla](https://github.com/BeichenDream/Godzilla): 哥斯拉**
-8. **Kali:WSL Kali Linux 2022.3**
- - **username: kali password: kali**
- - **username: root password: root**
+8. **Kali:WSL Kali Linux 2024.1**
+ - <font color=green>**username: kali password: kali**</font>
+ - <font color=green>**username: root password: root**</font>
  - **修改软件源为阿里云**
- - **完整安装 Kali Linux 2024.1**
 9. **Metasploit-Framework: Kali**
 10. **Msfvenom: MSF 木马生成工具**
 11. **[Skyscorpion](https://github.com/shack2/skyscorpion): 天蝎**
@@ -790,14 +794,14 @@
 14. **[WebshellGenerate](https://github.com/cseroad/Webshell_Generate): Webshell 生成工具**
 15. **[XG拟态](https://github.com/xiaogang000/XG_NTAI): Webshell 免杀工具**
 
-### **[+] 社工工具 (C:\Penetration\SocialEngineeringTools):**
+### <font color=orange>**[+] 社工工具 (C:\Penetration\SocialEngineeringTools):**</font>
 
 1. **[Mip22](https://github.com/makdosx/mip22): 钓鱼工具**
 2. **[SocialEngineeringToolkit](https://github.com/trustedsec/social-engineer-toolkit): 社工工具包(Kali)**
 3. **[SocialFish](https://github.com/UndeadSec/SocialFish): 钓鱼工具**
 4. **[Swaks](https://github.com/jetmore/swaks): 邮件伪造工具**
 
-### **[+] 系统工具 (C:\Penetration\SystemTools):**
+### <font color=orange>**[+] 系统工具 (C:\Penetration\SystemTools):**</font>
 
 1. **7-Zip: 23.0 单文件版**
 2. **[AAct](https://ghxi.com/aact.html): 激活工具**
@@ -817,7 +821,7 @@
 12. **[MenuManager](https://ghxi.com/contextmenumanager.html): 右键菜单管理工具**
 13. **[NTLite](https://www.ntlite.com/): 系统调节工具**
 14. **[PCMaster](https://ghxi.com/pcmaster.html): 系统调整工具**
- - **已创建右键快捷菜单:**
+ - <font color=green>**已创建右键快捷菜单:**</font>
  - **在此处打开 Terminal 终端**
  - **在此处打开 Kali Linux 终端**
  - **在此处打开 Git 终端**
@@ -828,7 +832,7 @@
 15. **UltraISO: iso编辑工具**
 16. **[wget](https://github.com/rockdaboot/wget2)**
 
-### **[+] 主题工具 (C:\Penetration\ThemeTools):**
+### <font color=orange>**[+] 主题工具 (C:\Penetration\ThemeTools):**</font>
 
 1. **ICON: 图标**
 2. **[ICONSext](https://www.nirsoft.net/utils/iconsext.html): 图标提取工具**
@@ -836,11 +840,11 @@
 4. **OldNewExplorer: 资源管理器调整工具**
 5. **Refresh: 图标缓存刷新工具**
 
-### **[+] 流量工具 (C:\Penetration\TrafficTools):**
+### <font color=orange>**[+] 流量工具 (C:\Penetration\TrafficTools):**</font>
 
 1. **BlueTeamTools: 流量解密工具**
 2. **BurpSuite: 2024.2.1(注册版)**
- - **集成插件:**
+ - <font color=green>**集成插件:**</font>
  - **[汉化](https://github.com/funkyoummp/burpsuitecn)**
  - **[BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan)**
  - **[BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder)**
@@ -873,7 +877,7 @@
 15. **[WireShark](https://www.wireshark.org/): 流量抓包分析工具**
 16. **[Yakit](https://github.com/yaklang/yakit)**
 
-# **全套虚拟机镜像:**
+# <font color=blue>**全套虚拟机镜像:**</font>
 
 1. **Windows 7 x64**
 2. **Windows 8 x64**
@@ -885,15 +889,16 @@
 8. **Ubuntu 20 x64**
 
 **所有虚拟机镜像均安装：**
+
  - **VMTools**
  - **7z**
  - **Microsoft Visual C++ 2008-2022 运行库**
  - **密钥或激活工具激活**
 
 **可供测试软件，环境搭建等用途。**
-**虚拟机账号密码已备注在 VMware 描述栏处，请注意查看。**
+<font color=green>**虚拟机账号密码已备注在 VMware 描述栏处，请注意查看。**</font>
 
-# **下载链接:**
+# <font color=blue>**下载链接:**</font>
  - **测试后上传**
 
-# **参考截图:**
+# <font color=blue>**参考截图:**</font>
