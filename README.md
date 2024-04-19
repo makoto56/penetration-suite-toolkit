@@ -703,13 +703,16 @@
 ### <font color=orange>**[+] 扫描工具 (C:\Penetration\ScanTools):**</font>
 
 1. **Acunetix: 24.2.240226074(注册版)**
- - <font color=green>**username: admin@awvs.com**</font>
- - <font color=green>**password: Admin@awvs.com**</font>
+  - <font color=green>**username: admin@awvs.com**</font>
+  - <font color=green>**password: Admin@awvs.com**</font>
+  - <font color=green>**如需使用请先运行开启服务快捷方式**</font>
 2. **AppScan: 10.4.0(注册版)**
 3. **[EasySpider](https://www.easyspider.net/): 爬虫工具**
 4. **Nessus: 10.7.1(注册版)**
  - <font color=green>**username: admin**</font>
  - <font color=green>**password: password**</font>
+ - <font color=green>**如需使用请先运行开启服务快捷方式**</font>
+ - <font color=green>**Nessusd 服务开启后会自动编译插件，CPU 占用率较高，编译完成后恢复正常，具体进度可在Nessus Web 后台中查看。**</font>
 5. **Invicti Netsparker: 24.3(注册版)**
 5. **[Nmap](https://nmap.org/)**
 6. **RouterScan: C段扫描工具**
@@ -784,7 +787,8 @@
 8. **Kali:WSL Kali Linux 2024.1**
  - <font color=green>**username: kali password: kali**</font>
  - <font color=green>**username: root password: root**</font>
- - **修改软件源为阿里云**
+ - <font color=green>**修改软件源为阿里云**</font>
+ - <font color=green>**图形化模式非常占用系统资源，建议非必要不开启。**</font>
 9. **Metasploit-Framework: Kali**
 10. **Msfvenom: MSF 木马生成工具**
 11. **[Skyscorpion](https://github.com/shack2/skyscorpion): 天蝎**
