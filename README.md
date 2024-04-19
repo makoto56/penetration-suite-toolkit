@@ -669,6 +669,7 @@
  - **PyCharm**
  - **Rider**
  - **WebStorm**
+ - <font color=green>**如遇到激活状态失效，请手动运行/JetBrains/破解补丁/目录下的破解脚本。**</font>
 4. **[MinGW64](https://www.mingw-w64.org/)**
 5. **[Nim](https://nim-lang.org/)**
 4. **[Nodejs](https://nodejs.org/)**
