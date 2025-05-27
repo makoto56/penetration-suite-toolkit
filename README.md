@@ -1,13 +1,9 @@
 # <font color=red>**Windows10 Penetration Suite Toolkit within Kali Linux v5.0**</font>
 ![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg) ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg)
 
-# <font color=blue>**2024.4.17 更新说明:**</font>
+# <font color=blue>**2025.05 更新说明:**</font>
 
-1. **安卓、CTF、逆向、AI、取证、数据库等分类补充了部分实用工具；**
-2. **去除部分长期未更新、使用效果不佳及功能重复的工具；**
-3. **优化扫描器、数据库等部分工具系统资源占用过大问题；**
-4. **重构工具快捷方式，注明详细使用参数及方法，图标美化；**
-5. **系统、组件及工具常规升级更新。**
+**基于windows11 workstation 的 2025 新版本正在制作中，需要一点时间~**
 
 # <font color=blue>**系统简介:**</font>
 
