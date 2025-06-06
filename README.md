@@ -11,7 +11,7 @@
   <img src="https://github.com/makoto56/penetration-suite-toolkit/blob/main/%E6%88%AA%E5%9B%BE/v6.0.png">
 </p>
 
-## <font color=blue>**✨ 更新说明:**</font>
+## <font color=blue>**✨ 2025.06.06 更新说明:**</font>
 
 1. **由于微软即将对 Windows 10 结束技术支持, 故使用 Windows 11 母盘镜像制作;**
 2. **所有运行库、系统组件、安装软件、脚本类工具均升级至最新版本, 并备注了对应的网站及版本号;**
