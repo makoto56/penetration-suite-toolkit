@@ -297,7 +297,7 @@
   - **[AliyunAKTools](https://github.com/mrknow001/aliyun-accesskey-Tools): 阿里云利用工具 v1.3**
   - **AptTools: 综合漏洞利用工具**
   - **[AuxTools](https://github.com/doimet/AuxTools): 漏洞综合利用工具 v5.5.3**
-  - **[EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI): 方程式工具包图形界面版 v0.3**
+  - **[EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI): 方程式工具包图形界面版 v0.48**
   - **[ExpDemo](https://github.com/yhy0/ExpDemo-JavaFX): 综合漏洞利用工具 v1.9**
   - **[Exp-Tools](https://github.com/cseroad/Exp-Tools): 综合漏洞利用工具 v1.3.1**
   - **[HeapdumpTool](https://github.com/wyzxxz/heapdump_tool): 敏感信息提取工具**
@@ -722,7 +722,7 @@
 
 ### <font color=orange>**[+] 流量工具 (C:\Penetration\TrafficTools):**</font>
 
-1. **BlueTeamTools: 流量解密工具 v2.1.6**
+1. **BlueTeamTools: 流量解密工具 v2.1.8**
 2. **BurpSuite: v2025.2(注册版)**
   - <font color=green>**`集成插件`:**</font>
   - **[`汉化`](https://github.com/funkyoummp/burpsuitecn)**
