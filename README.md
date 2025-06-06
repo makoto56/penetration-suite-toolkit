@@ -768,7 +768,7 @@
 6. **`Windows Server 2016 x64`**
 7. **`Windows Server 2019 x64`**
 8. **`Ubuntu 20 x64`**
-  - **所有虚拟机镜像均安装: **
+  - **所有虚拟机镜像均安装:**
     - **`VMTools`**
     - **`7z`**
     - **`Microsoft Visual C++ 2008-2022 运行库`**
