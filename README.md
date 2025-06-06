@@ -647,8 +647,8 @@
     - **[`taowu`](https://github.com/pandasec888/taowu-cobalt-strike)**
 6. **[GBBypass](https://github.com/czz1233/GBByPass): 冰蝎 & 哥斯拉 Webshell 免杀 v1.2**
 7. **Godzilla: 哥斯拉 v4.0.1**
-  - **[`原版`]((https://github.com/BeichenDream/Godzilla)): **
-  - **[`ekp 二开版`](https://github.com/ekkoo-z/Z-Godzilla_ekp): **
+  - **[`原版`]((https://github.com/BeichenDream/Godzilla))**
+  - **[`ekp 二开版`](https://github.com/ekkoo-z/Z-Godzilla_ekp)**
 8. **WSL Kali Linux 2025.1**
   - <font color=green>**`username: kali password: kali`**</font>
   - <font color=green>**`username: root password: root`**</font>
