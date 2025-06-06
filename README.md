@@ -1,6 +1,11 @@
-# <font color=red>**Windows11 Penetration Suite Toolkit within Kali Linux v6.0**</font>
-![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg) ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg)
+# <font color=red>**Windows11 Penetration Suite Toolkit v6.0**</font>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Makoto56-blueviolet.svg">
+  <img src="https://img.shields.io/badge/Platform-Windows-red.svg">
+  <img src="https://img.shields.io/badge/WSL-Kali-9cf.svg">
+  <img src="https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg">
+</p>
 <p align="center">
   <img src="https://github.com/makoto56/penetration-suite-toolkit/blob/main/%E6%88%AA%E5%9B%BE/v6.0.png">
 </p>
