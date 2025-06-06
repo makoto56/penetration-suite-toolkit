@@ -732,13 +732,13 @@
   - **[`TurboIntruder`](https://github.com/PortSwigger/turbo-intruder)**
 3. **[Fiddler Debugger](https://ghxi.com/fiddler.html): 流量抓包工具(汉化版) v5.0**
 4. **[Fiddler Everywhere](https://github.com/msojocs/fiddler-everywhere-enhance): 流量抓包工具(注册版) v6.5.0**
-5. **Firefox: 集成插件版 v49.0 **
+5. **Firefox: 集成插件版 v49.0**
 6. **[Frp](https://github.com/fatedier/frp): 内网穿透工具 v0.62.1**
 7. **[GoProxy](https://github.com/snail007/goproxy) v15.0**
 8. **[GO Simple Tunnel](https://github.com/ginuerzh/gost): 隧道工具 v2.12.0**
 9. **[Laragon](https://laragon.org/download/): 集成环境 v8.1.0**
 10. **[LiqunShield](https://github.com/Liqunkit/LiqunShield): Webshell 流量分析工具**
-11. **Netcat
+11. **Netcat**
   - **[`Netcat`](https://eternallybored.org/misc/netcat/): 原版 v1.11**
   - **[`Ncat`](https://nmap.org/ncat/): Nmap 重构版 v5.59**
   - **[`Rustcat`](https://github.com/robiot/rustcat): Rust 重构版 v3.0.0**
