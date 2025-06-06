@@ -18,10 +18,10 @@
   1. **基于 Windows11 Workstation 24H2 x64 原版镜像制作<font color=red>(理论不支持 ARM 设备)</font>**;
   2. **完整安装 WSL2 Kali Linux 2025.1;**
    - **注: 物理主机须支持 CPU 虚拟化功能, 否则 WSL Kali 可能无法使用。</font>**
-     <font color=green>**`开启 VMware - 虚拟机设置 - 处理器 - 虚拟化引擎:`**</font>
-     <font color=green>**`虚拟化 Intel VT-x/EPT 或 AMD-V/RVI`**</font>
-     <font color=green>**`虚拟化 CPU 性能计数器`**</font>
-     <font color=green>**`虚拟化 IOMMU(IO 内存管理单元)`**</font>
+   - <font color=green>**`开启 VMware - 虚拟机设置 - 处理器 - 虚拟化引擎:`**</font>
+   - <font color=green>**`虚拟化 Intel VT-x/EPT 或 AMD-V/RVI`**</font>
+   - <font color=green>**`虚拟化 CPU 性能计数器`**</font>
+   - <font color=green>**`虚拟化 IOMMU(IO 内存管理单元)`**</font>
   3. **精简系统自带软件, 美化字体及部分图标, 适度优化;**
    - **`推荐运行环境: `**
    - **`VMware: 17.x(建议视情分配图形内存)`**
