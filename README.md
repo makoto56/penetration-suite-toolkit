@@ -331,7 +331,7 @@
 3. **[EvtxECmd](https://ericzimmerman.github.io/#!index.md): Windows 日志分析工具 v1.5.2.0**
 4. **[FireKylin](https://github.com/MountCloud/FireKylin): 系统痕迹采集工具 v1.4.0**
 5. **[GetInfo](https://github.com/ra66itmachine/GetInfo): 应急响应信息采集 v1.2.1**
-6. **Get Win info **
+6. **Get Win info**
 7. **[Gather](https://github.com/wwl012345/gather): Linux服务器信息收集脚本 v1.0**
 8. **[GhostWolf](https://github.com/SickleSec/GhostWolf): 内存敏感信息提取工具 v1.1**
 9. **[Hawkeye](https://github.com/mir1ce/Hawkeye): 应急响应工具 v3.0**
