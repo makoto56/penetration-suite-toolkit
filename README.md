@@ -1,6 +1,4 @@
-<p align="center">
-  # <font color=red>**Windows11 Penetration Suite Toolkit v6.0**</font>
-</p>
+<h1 align="center">Windows11 Penetration Suite Toolkit v6.0</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Makoto56-blueviolet.svg">
