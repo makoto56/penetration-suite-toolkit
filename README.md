@@ -1,6 +1,10 @@
 # <font color=red>**Windows11 Penetration Suite Toolkit within Kali Linux v6.0**</font>
 ![image](https://img.shields.io/badge/Author-Makoto56-blueviolet.svg) ![image](https://img.shields.io/badge/Platform-Windows-red.svg) ![image](https://img.shields.io/badge/WSL-Kali-9cf.svg) ![image](https://img.shields.io/badge/Property-%E6%AD%A6%E5%99%A8%E5%BA%93-brightgreen.svg)
 
+<p align="center">
+  <img src="https://github.com/makoto56/penetration-suite-toolkit/blob/main/%E6%88%AA%E5%9B%BE/v6.0.png">
+</p>
+
 ## <font color=blue>**✨ 更新说明:**</font>
 
 1. **考虑到微软即将对 Windows 10 结束技术支持, 故使用 Windows 11 母盘制作;**
