@@ -3,7 +3,7 @@
 
 ## <font color=blue>**✨ 更新说明:**</font>
 
-> 1. **考虑到微软即将对 Windows 10 结束技术支持, 故使用 Windows 11 母盘制作;**
+  1. **考虑到微软即将对 Windows 10 结束技术支持, 故使用 Windows 11 母盘制作;**
   2. **所有运行库、系统组件、安装软件、脚本类工具均升级至最新版本, 并备注了对应的网站及版本号;**
   2. **去除部分长期未更新、使用效果不佳的工具, 补充了部分实用工具;**
   3. **优化扫描器、数据库等部分工具自启动后台服务占用系统资源过大的问题;**
@@ -15,7 +15,7 @@
 
 ## <font color=blue>**📝 系统简介:**</font>
 
-> 1. **基于 Windows11 Workstation 24H2 x64 原版镜像制作<font color=red>(理论不支持 ARM 设备)</font>**;
+  1. **基于 Windows11 Workstation 24H2 x64 原版镜像制作<font color=red>(理论不支持 ARM 设备)</font>**;
   2. **完整安装 WSL2 Kali Linux 2025.1;**
    - **注: 物理主机须支持 CPU 虚拟化功能, 否则 WSL Kali 可能无法使用。</font>**
    >    <font color=green>**`开启 VMware - 虚拟机设置 - 处理器 - 虚拟化引擎:`**</font>
@@ -30,14 +30,14 @@
 
 ## <font color=blue>**📜 制作声明:**</font>
 
-> 1. **本集成环境根据个人工作和学习的侧重点制作, 不可能做到满足所有人的需求；**
+  1. **本集成环境根据个人工作和学习的侧重点制作, 不可能做到满足所有人的需求；**
   2. **本项目制作的初衷是帮助渗透新手快速搭建工作环境, 工欲善其事, 必先利其器；**
   3. **本项目不接受任何形式的商业赞助；**
   4. **如果您有好的意见或者建议, 请联系邮箱 `burpsuite@qq.com`。**
 
 ## <font color=blue>**⚠️ 免责声明:**</font>
 
-> 1. **本镜像仅面向合法授权的企业安全建设行为, 如您需要测试本镜像, 请自行搭建环境；**
+  1. **本镜像仅面向合法授权的企业安全建设行为, 如您需要测试本镜像, 请自行搭建环境；**
   2. **在使用本镜像时, 您应确保相关行为符合当地的法律法规, 且已经取得了足够的授权；**
   3. **如果您在使用本镜像中产生任何非法行为, 需自行承担相应后果, 作者不承担任何法律连带责任；**
   4. **本镜像所使用的工具资源均来自于互联网整理, 如果侵犯了您的知识产权, 作者将第一时间删除。**
@@ -46,7 +46,7 @@
 
 ### <font color=orange>**[+] AI工具 (C:\Penetration\AiTools) :**</font>
 
-> 1. **[CherryStudio](https://www.cherry-ai.com/): AI 资源聚合工具 v1.3.12**
+  1. **[CherryStudio](https://www.cherry-ai.com/): AI 资源聚合工具 v1.3.12**
   2. **[Cursor](https://www.cursor.com/cn): AI 代码编辑器 v0.50.5**
   3. **[腾讯 IMA 知识库](https://ima.qq.com/): v1.72**
   4. **[Ai PPT](https://www.aippt.cn/)**
@@ -61,7 +61,7 @@
 
 ### <font color=orange>**[+] 安卓工具 (C:\Penetration\AndroidTools):**</font>
 
-> 1. **[AdbDriver](https://adb.clockworkmod.com): ADB 驱动 v1.0.31**
+  1. **[AdbDriver](https://adb.clockworkmod.com): ADB 驱动 v1.0.31**
   2. **AndroidHelper: APK 逆向工具 v2.2**
   3. **AndroidKiller: APK 综合工具 v1.3.1.0**
   4. **[Apk2url](https://github.com/n0mi1k/apk2url): APK 信息提取工具 v1.2**
@@ -90,7 +90,7 @@
 
 ### <font color=orange>**[+] 免杀工具 (C:\Penetration\AntivirusTools):**</font>
 
-> 1. **[AVevasion](https://github.com/1y0n/av_evasion_tool): v20231208**
+  1. **[AVevasion](https://github.com/1y0n/av_evasion_tool): v20231208**
   2. **[AvEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline): v1.2**
   3. **[Aycvxz](https://gitee.com/lsgsd/aycvxz-pubilc): 分离免杀工具 v1.4.2**
   4. **[BypassAV](https://github.com/yinsel/BypassAV): v1.6**
@@ -108,14 +108,14 @@
 
 ### <font color=orange>**[+] 审计工具 (C:\Penetration\AuditTools):**</font>
 
-> 1. **Fortify: v24.4.0(注册版)**
+  1. **Fortify: v24.4.0(注册版)**
   2. **[PHPAuthScanner](https://github.com/caigo8/PHPAuthScanner): PHP 鉴权代码扫描器 v1.1**
   3. **[Seay](https://github.com/f1tz/cnseay): Seay 源代码审计系统 v2.1**
   4. **SeayDzend**
 
 ### <font color=orange>**[+] 连接工具 (C:\Penetration\ConnectTools):**</font>
 
-> 1. **[1Remote](https://github.com/1Remote/1Remote) v1.2.0**
+  1. **[1Remote](https://github.com/1Remote/1Remote) v1.2.0**
   2. **[Anydesk](https://www.ghxi.com/anydesk.html) v9.5.4**
   3. **[AweSun](https://sunlogin.oray.com/): 向日葵 v15.8.4**
   4. **[Filezilla](https://www.ghxi.com/filezilla.html) v3.69.0**
@@ -129,7 +129,7 @@
 
 ### <font color=orange>**[+] 破解工具 (C:\Penetration\CrackTools):**</font>
 
-> 1. **Advanced Archive Password Recovery: 压缩包密码破解工具**
+  1. **Advanced Archive Password Recovery: 压缩包密码破解工具**
   2. **Advanced Office Password Recovery: Office 密码破解工具**
   3. **Advanced PDF Password Recovery: PDF 密码破解工具**
   4. **DecryptPassword**
@@ -157,7 +157,7 @@
 
 ### <font color=orange>**[+] 夺旗工具 (C:\Penetration\CTFTools):**</font>
 
-> 1. **ASCII: ASCII 码转换工具**
+  1. **ASCII: ASCII 码转换工具**
   2. **Audacity: 音频工具**
   3. **BehinderDecode: 冰蝎流量解码工具**
   4. **[BerylEnigma](https://github.com/ffffffff0x/BerylEnigma): 密码学工具 v1.15.0**
@@ -208,7 +208,7 @@
 
 ### <font color=orange>**[+] 数据库工具 (C:\Penetration\DatabaseTools):**</font>
 
-> 1. **[Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis 客户端 v1.7.1**
+  1. **[Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager): Redis 客户端 v1.7.1**
   2. **[DatabaseTools](https://github.com/Hel10-Web/Databasetools): 数据库综合利用工具 v1.2**
   3. **[HeidiSQL](https://www.ghxi.com/heidisql.html): 数据库管理工具 v12.10**
   4. **[MariaDB](https://mariadb.org/): Mysql 数据库 v11.7**
@@ -248,7 +248,7 @@
 
 ### <font color=orange>**[+] 字典工具 (C:\Penetration\DictionaryTools):**</font>
 
-> 1. **[UserNameDictTools](https://github.com/abc123info/UserNameDictTools): v0.36**
+  1. **[UserNameDictTools](https://github.com/abc123info/UserNameDictTools): v0.36**
   2. **[Social Engineering Dictionary Generator](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator): 社工字典生成工具 v1.2.0**
   3. **木头字典生成工具**
   4. **品轩字典生成工具**
@@ -256,7 +256,7 @@
 
 ### <font color=orange>**[+] 磁盘工具 (C:\Penetration\DiskTools):**</font>
 
-> 1. **[傲梅分区助手](https://www.ghxi.com/aomeipartitionassistant.html) v10.8.1**
+  1. **[傲梅分区助手](https://www.ghxi.com/aomeipartitionassistant.html) v10.8.1**
   2. **[傲梅系统备份](https://www.ghxi.com/aomeibackupper.html) v7.5.0**
   3. **[Disk Drill](https://www.cleverfiles.com/): 数据恢复工具(注册版) v5.7.917.0**
   4. **DiskGenius: v5.6.1.1580(注册版) **
@@ -264,7 +264,7 @@
 
 ### <font color=orange>**[+] 编辑工具 (C:\Penetration\EditTools):**</font>
 
-> 1. **[010Editor](https://www.ghxi.com/010editor.html): 十六进制编辑工具(注册版) v13.0.1**
+  1. **[010Editor](https://www.ghxi.com/010editor.html): 十六进制编辑工具(注册版) v13.0.1**
   2. **[AnyTXT](https://www.ghxi.com/anytxtsearcher.html): 文本搜索工具 v13.2034**
   3. **BeyondCompare: 文件对比工具 v5.0.7**
   4. **[JsonViewer](https://dadroit.com/download/): Json 查看编辑工具 v3.1**
@@ -282,7 +282,7 @@
 
 ### <font color=orange>**[+] 漏洞工具 (C:\Penetration\ExploitTools):**</font>
 
-> 1. **漏洞利用工具**
+  1. **漏洞利用工具**
    - **[Aakian-FaCai](https://github.com/zangcc/Aakian-FaCai): VUE 漏洞扫描工具 v1.0.0**
    - **[AliyunAKTools](https://github.com/mrknow001/aliyun-accesskey-Tools): 阿里云利用工具 v1.3**
    - **AptTools: 综合漏洞利用工具**
@@ -326,7 +326,7 @@
 
 ### <font color=orange>**[+] 取证工具 (C:\Penetration\ForensicsTools):**</font>
 
-> 1. **[AlternateStreamView](https://www.nirsoft.net/utils/alternate_data_streams.html): NTFS 数据流工具 v1.58**
+  1. **[AlternateStreamView](https://www.nirsoft.net/utils/alternate_data_streams.html): NTFS 数据流工具 v1.58**
   2. **[AutoSpy](https://www.autopsy.com/): v4.22.1**
   3. **[EvtxECmd](https://ericzimmerman.github.io/#!index.md): Windows 日志分析工具 v1.5.2.0**
   4. **[FireKylin](https://github.com/MountCloud/FireKylin): 系统痕迹采集工具 v1.4.0**
@@ -357,7 +357,7 @@
 
 ### <font color=orange>**[+] 内网工具 (C:\Penetration\IntranetTools):**</font>
 
-> 1. **[3Gstudent](https://github.com/3gstudent): 三好学生脚本**
+  1. **[3Gstudent](https://github.com/3gstudent): 三好学生脚本**
    - **`Homework-of-C-Language`**
    - **`Homework-of-C-Sharp`**
    - **`Homework-of-Go`**
@@ -443,7 +443,7 @@
 
 ### <font color=orange>**[+] 影音图像 (C:\Penetration\MediaTools):**</font>
 
-> 1. **Adobe Acrobat DC 2025: PDF 编辑工具(注册版)**
+  1. **Adobe Acrobat DC 2025: PDF 编辑工具(注册版)**
   2. **Adobe Photoshop 2025**
   3. **[Bandicam](https://ghxi.com/bandicam.html): 屏幕录像工具(注册版) v8.1**
   4. **[FormatFactory](https://ghxi.com/formatfactory-2.html): 格式工厂(注册版) v5.20**
@@ -455,7 +455,7 @@
 
 ### <font color=orange>**[+] 网络工具 (C:\Penetration\NetworkTools):**</font>
 
-> 1. **[Chrome](https://ghxi.com/chrome.html): 136.0.7103.114 绿色修改版**
+  1. **[Chrome](https://ghxi.com/chrome.html): 136.0.7103.114 绿色修改版**
    - <font color=green>**`集成插件`**</font>
    - **`Adblock: 广告拦截工具`**
    - **`Adobe Acrobat: PDF 编辑`**
@@ -493,18 +493,18 @@
 
 ### <font color=orange>**[+] 办公工具 (C:\Penetration\OfficeTools):**</font>
 
-> 1. **Office: 2024 专业增强版**
+  1. **Office: 2024 专业增强版**
    - **`Word 2024`** 
    - **`Excel 2024`** 
    - **`Powerpoint 2024`** 
    - **`Access 2024`** 
    - **`Onenote 2024`** 
    - **`Outlook 2024`**
-> 2. **WPS: 2023 专业增强版**
+  2. **WPS: 2023 专业增强版**
 
 ### <font color=orange>**[+] 编程工具 (C:\Penetration\ProgramTools):**</font>
 
-> 1. **[Go](https://go.dev/): v1.24.3**
+  1. **[Go](https://go.dev/): v1.24.3**
    - <font color=green>**`修改源为阿里云`**</font>
   2. **Java:**
    - **`jdk8: 绿色版, 如有软件需要 jdk8 环境运行可直接调用/jdk1.8.0/bin/java.exe即可。`**
@@ -540,7 +540,7 @@
 
 ### <font color=orange>**[+] 逆向工具 (C:\Penetration\ReverseTools):**</font>
 
-> 1. **[DetectItEasy](https://ghxi.com/die.html): 查壳工具 v3.10**
+  1. **[DetectItEasy](https://ghxi.com/die.html): 查壳工具 v3.10**
   2. **[dnSpy](https://github.com/dnSpy/dnSpy): .Net 逆向工具 v6.1.8**
   3. **exeScope: exe 编辑工具 v6.50**
   4. **[Ghidra](https://github.com/NationalSecurityAgency/ghidra): 逆向工具 v11.3.2**
@@ -557,7 +557,7 @@
 
 ### <font color=orange>**[+] 扫描工具 (C:\Penetration\ScanTools):**</font>
 
-> 1. **Acunetix: v25.1.250204093(注册版)**
+  1. **Acunetix: v25.1.250204093(注册版)**
    - <font color=green>**`username: admin@awvs.com`**</font>
    - <font color=green>**`password: Admin@awvs.com`**</font>
    - <font color=green>**`如需使用, 请先运行“开启服务”快捷方式。`**</font>
@@ -621,7 +621,7 @@
 
 ### <font color=orange>**[+] 权限工具 (C:\Penetration\ShellTools):**</font>
 
-> 1. **[Antsword](https://github.com/AntSwordProject/AntSword-Loader): 蚁剑(已集成插件) v4.0.3**
+  1. **[Antsword](https://github.com/AntSwordProject/AntSword-Loader): 蚁剑(已集成插件) v4.0.3**
   2. **[Behinder](https://github.com/rebeyond/Behinder): 冰蝎**
    - **`behinder 3.0 beta11`**
    - **`behinder 4.1`**
@@ -667,13 +667,13 @@
 
 ### <font color=orange>**[+] 社工工具 (C:\Penetration\SocialEngineeringTools):**</font>
 
-> 1. **[Mip22](https://github.com/makdosx/mip22): 钓鱼工具**
+  1. **[Mip22](https://github.com/makdosx/mip22): 钓鱼工具**
   2. **[SocialEngineeringToolkit](https://github.com/trustedsec/social-engineer-toolkit): 社工工具包(Kali)**
   3. **[Swaks](https://github.com/jetmore/swaks): 邮件伪造工具**
 
 ### <font color=orange>**[+] 系统工具 (C:\Penetration\SystemTools):**</font>
 
-> 1. **7-Zip: v24.09(单文件版)**
+  1. **7-Zip: v24.09(单文件版)**
   2. **[Bandizip](https://ghxi.com/bandizip.html): 压缩工具(注册版) v7.37**
   3. **[Clink](https://chrisant996.github.io/clink/) 命令行增强工具 v1.7.19**
   4. **[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language): 系统调节工具 v10.1.1002.1B**
@@ -707,12 +707,12 @@
 
 ### <font color=orange>**[+] 主题工具 (C:\Penetration\ThemeTools):**</font>
 
-> 1. **ICON: 第三方图标**
+  1. **ICON: 第三方图标**
   2. **Refresh: 存刷图标缓新工具**
 
 ### <font color=orange>**[+] 流量工具 (C:\Penetration\TrafficTools):**</font>
 
-> 1. **BlueTeamTools: 流量解密工具 v2.1.6**
+  1. **BlueTeamTools: 流量解密工具 v2.1.6**
   2. **BurpSuite: v2025.2(注册版)**
    - <font color=green>**`集成插件`:**</font>
    - **[`汉化`](https://github.com/funkyoummp/burpsuitecn)**
@@ -760,7 +760,7 @@
 
 ## <font color=blue>**全套虚拟机镜像:**</font>
 
-> 1. **`Windows 7 x64`**
+  1. **`Windows 7 x64`**
   2. **`Windows 8 x64`**
   3. **`Windows 10 x64`**
   4. **`Windows Server 2008 x64`**
