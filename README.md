@@ -643,7 +643,7 @@
     - **[`mikasa`](https://github.com/Mikasazero)**
     - **`mr.xie: 谢公子插件`**
     - **[`OLa`](https://github.com/Sec-Fork/OLa)**
-    - **[`Pillager`](https://github.com/qwqdanchun/Pillager): V2024.09.07**
+    - **[`Pillager`](https://github.com/qwqdanchun/Pillager): v2024.09.07**
     - **[`taowu`](https://github.com/pandasec888/taowu-cobalt-strike)**
 6. **[GBBypass](https://github.com/czz1233/GBByPass): 冰蝎 & 哥斯拉 Webshell 免杀 v1.2**
 7. **Godzilla: 哥斯拉 v4.0.1**
