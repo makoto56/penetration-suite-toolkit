@@ -259,7 +259,7 @@
 1. **[傲梅分区助手](https://www.ghxi.com/aomeipartitionassistant.html) v10.8.1**
 2. **[傲梅系统备份](https://www.ghxi.com/aomeibackupper.html) v7.5.0**
 3. **[Disk Drill](https://www.cleverfiles.com/): 数据恢复工具(注册版) v5.7.917.0**
-4. **DiskGenius: v5.6.1.1580(注册版) **
+4. **DiskGenius: v5.6.1.1580(注册版)**
 5. **[SSDFresh](https://www.abelssoft.de/en/windows/system-utilities/ssd-fresh): 磁盘整理工具 v2025.14.0**
 
 ### <font color=orange>**[+] 编辑工具 (C:\Penetration\EditTools):**</font>
