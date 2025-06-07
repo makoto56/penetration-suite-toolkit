@@ -543,7 +543,7 @@
   - **`python3: Microsoft Store 直装, python 或 python3 命令启动(python test.py / python3 test.py)`**
   - **`使用 pip 命令调用 python3 pip`**
   - <font color=green>**`由于一些比较老的项目不兼容 python3.13 新版本的 pip 库, 且 Windows 共存不同版本的 python3 容易产生环境变量冲突问题, 所以在 WSL Kali 中同时安装了python2、python3.8、python3.13 三个版本。`**</font>
-  - <font color=green>**`由于新版 python3 的特性, 为降低不同项目间依赖库的冲突问题, 本镜像所有 python3 工具的 pip 依赖库均以虚拟环境形式安装 (python3 -m venv) 在项目根目录下 (Windows 为 “win” 文件夹, WSL Kali 为“kali” 文件夹)。使用前需要先激活对应的虚拟环境, 否则会报错缺少运行库。`**</font>
+  - <font color=green>**`为降低不同项目间依赖库的冲突问题, 本镜像所有 python3 工具的 pip 依赖库均以虚拟环境形式安装 (python3 -m venv) 在项目根目录下 (Windows 为 “win” 文件夹, WSL Kali 为“kali” 文件夹)。使用前需要先激活对应的虚拟环境, 否则会报错缺少运行库。`**</font>
   - <font color=green>**`本镜像所有 python 项目均配备了 start.bat 快速启动脚本, 会根据项目需求调用不同版本的 python 并自动激活对应的虚拟环境, 方便一键使用。如果您需要手动运行, 请确保先激活对应的虚拟环境。`**</font>
 9. **[Rust](https://www.rust-lang.org/): v1.87.0**
   - <font color=green>**`修改软件源为中科大`**</font>
