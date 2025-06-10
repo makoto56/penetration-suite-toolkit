@@ -11,6 +11,8 @@
   <img src="https://github.com/makoto56/penetration-suite-toolkit/blob/main/%E6%88%AA%E5%9B%BE/v6.0.png">
 </p>
 
+---
+
 ## <font color=blue>**✨ 2025.06.06 更新说明:**</font>
 
 1. **由于微软即将对 Windows 10 结束技术支持, 故使用 Windows 11 母盘镜像制作;**
@@ -27,19 +29,24 @@
 9. **Oh-My-Posh 的说明:**
   - **本镜像的 `CMD Terminal`、`Powershell`、`WSL Kali Bash` 三个终端均采用 `Oh-My-Posh` 美化;**
   - **主题预览请参考 `Oh-My-Posh` [官网](https://ohmyposh.dev/docs/themes);**
-  - **更换 `Oh-My-Posh` 主题方法:**
-  - `CMD Terminal`:
-    ```bash
+  - **更换 `Oh-My-Posh` 主题方法 (修改对应的主题名称即可), 具体请参考 `Oh-My-Posh` [官网](https://ohmyposh.dev/docs/installation/prompt):**
+  - ```bash
+    CMD Terminal:
     clink set ohmyposh.theme C:\Users\Anonymous\AppData\Local\Programs\oh-my-posh\themes\amro.omp.json
     ```
-  - `Powershell`:
-    ```bash
+  - ```bash
+    Powershell:
     notepad C:\Users\Anonymous\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
+    oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\amro.omp.json" | Invoke-Expression
     ```
-  - `WSL Kali Bash`:
-    ```bash
+  - ```bash
+    WSL Kali Bash:
     vim ~/.bashrc
+    eval "$(/home/kali/.local/bin/oh-my-posh --init --shell bash --config ~/.poshthemes/amro.omp.json)"
+    source ~/.bashrc
     ```
+
+---
 
 ## <font color=blue>**📝 系统简介:**</font>
 
@@ -56,6 +63,8 @@
   - **`运行内存: 8 GB`**
   - **`固态硬盘: 300 GB`**
 
+---
+
 ## <font color=blue>**📜 制作声明:**</font>
 
 1. **本集成环境根据个人工作和学习的侧重点制作, 不可能做到满足所有人的需求；**
@@ -63,12 +72,16 @@
 3. **本项目不接受任何形式的商业赞助；**
 4. **如果您有好的意见或者建议, 请联系邮箱 `burpsuite@qq.com`。**
 
+---
+
 ## <font color=blue>**⚠️ 免责声明:**</font>
 
 1. **本镜像仅面向合法授权的企业安全建设行为, 如您需要测试本镜像, 请自行搭建环境；**
 2. **在使用本镜像时, 您应确保相关行为符合当地的法律法规, 且已经取得了足够的授权；**
 3. **如果您在使用本镜像中产生任何非法行为, 需自行承担相应后果, 作者不承担任何法律连带责任；**
 4. **本镜像所使用的工具资源均来自于互联网整理, 如果侵犯了您的知识产权, 作者将第一时间删除。**
+
+---
 
 ## <font color=blue>**🖥️ 软件及工具介绍:**</font>
 
@@ -786,6 +799,8 @@
 25. **[WireShark](https://www.wireshark.org/): 流量抓包分析工具 v4.4.6**
 26. **[Yakit](https://github.com/yaklang/yakit): v1.4.1**
 
+---
+
 ## <font color=blue>**全套虚拟机镜像:**</font>
 
 1. **`Windows 7 x64`**
@@ -805,8 +820,12 @@
   - **`可供测试软件, 环境搭建等用途。`**
   - <font color=green>**`虚拟机账号密码已备注在 VMware 描述栏处, 请注意查看。`**</font>
 
+---
+
 ## <font color=blue>**下载链接:**</font>
 > **小水管上传中...**
+
+---
 
 ## <font color=blue>**参考截图:**</font>
 ![image](https://github.com/makoto56/penetration-suite-toolkit/blob/main/%E6%88%AA%E5%9B%BE/%E6%A1%8C%E9%9D%A2.png)
