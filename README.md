@@ -20,10 +20,26 @@
 5. **重构工具的快捷方式，运行时显示详细使用参数及方法，并尽量为每一款工具配备相对好看的图标;**
 6. **Maye 快速启动工具分类前添加英文字母索引, 方便快速定位分类，并添加了悬停简介;**
 7. **Maye 界面单击工具图标运行, 个别工具启动速度可能较慢, 请耐心等待;**
-8. **Python 类工具的说明:**
+8. **Python 工具的说明:**
   - **`由于一些比较老的工具不兼容 python3.13 新版本的 pip 库, 且 Windows 共存不同版本的 python3 容易产生环境变量冲突问题, 所以在 WSL Kali 中同时安装了 python2、python3.8、python3.13 三个版本。`**
   - **`为降低不同工具间依赖库的冲突问题, 本镜像所有 python3 工具的 pip 依赖库均以虚拟环境形式安装 (python3 -m venv) 在项目根目录下 (Windows 为 “win” 文件夹, WSL Kali 为“kali” 文件夹)。使用前需要先激活对应的虚拟环境, 否则会报错缺少运行库。`**
   - **`本镜像所有 python 工具均配备了 start.bat 快速启动脚本, 会根据工具需求调用不同版本的 python 并自动激活对应的虚拟环境, 方便一键使用。如果您需要手动运行, 请确保先激活对应的虚拟环境。`**
+9. **Oh-My-Posh 的说明:**
+  - **本镜像的 `CMD Terminal`、`Powershell`、`WSL Kali Bash` 三个终端均采用 `Oh-My-Posh` 美化;**
+  - **主题预览请参考 `Oh-My-Posh` [官网](https://ohmyposh.dev/docs/themes);**
+  - **更换 `Oh-My-Posh` 主题方法:**
+  - `CMD Terminal`:
+    ```bash
+    clink set ohmyposh.theme C:\Users\Anonymous\AppData\Local\Programs\oh-my-posh\themes\amro.omp.json
+    ```
+  - `Powershell`:
+    ```bash
+    notepad C:\Users\Anonymous\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
+    ```
+  - `WSL Kali Bash`:
+    ```bash
+    vim ~/.bashrc
+    ```
 
 ## <font color=blue>**📝 系统简介:**</font>
 
