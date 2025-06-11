@@ -823,7 +823,7 @@
 ---
 
 ## <font color=blue>**下载链接:**</font>
-> **小水管上传中...**
+> **[v6.0](https://github.com/makoto56/penetration-suite-toolkit/releases/tag/v6.0)**
 
 ---
 
