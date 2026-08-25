@@ -345,6 +345,7 @@
   - **[List Cloud](https://github.com/wgpsec/lc): 云攻击资产梳理工具 v1.1.0**
   - **[Moriarty](https://github.com/BC-SECURITY/Moriarty): Windows 提权工具 v1.2**
   - **[MYExploit](https://github.com/achuna33/MYExploit): 综合漏洞利用工具 v2.0.5**
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform. 50 specialist agents over MCP, 80+ offensive tools, proof of exploitation on every finding, runs locally.
   - **[Nuclei](https://github.com/projectdiscovery/nuclei): 漏洞扫描利用工具 v3.4.4**
   - **[Poc2jar](https://github.com/f0ng/poc2jar): 综合漏洞利用工具 v0.6.8**
   - **[PotatoTool](https://github.com/HotBoy-java/PotatoTool): 综合利用工具 v2.5**
